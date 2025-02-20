@@ -1,0 +1,383 @@
+{
+  "metaData": {
+    "title": "Rinda - AI-Based Exhibition Face-to-Face Sales Support All-in-One Solution",
+    "description": "From exhibition pre-strategy recommendations to real-time interpretation and post-event customer management. Rinda, your on-site sales AI assistant",
+    "keywords": "Exhibition Sales, On-Site Sales, Face-to-Face Sales, B2B SaaS, Real-Time Interpretation, AI Agent, Conversation Analysis, Pre-Sales"
+  },
+  "header": {
+    "usecase": "Use Cases",
+    "process": "Process",
+    "blog": "Blog",
+    "getStarted": "Get Started",
+    "languageSelect": "Select Language",
+    "closeMenu": "Close Menu",
+    "openMenu": "Open Menu",
+    "homeLink": "Go to Homepage",
+    "mainNavigation": "Main Navigation",
+    "selectLanguage": "Select Language",
+    "switchLanguage": "Change language to {language}"
+  },
+  "intro": {
+    "first": {
+      "label": "Overcome the Limitations of On-Site Sales",
+      "title": {
+        "part1": "AI for",
+        "part2": "Sales",
+        "part3": "Automate",
+        "part4": "Your On-Site"
+      },
+      "description": "From pre-event preparation to on-site sales and customer management.\nWe've incorporated a team of 3 on-site sales experts into one Rinda.",
+      "button": "Apply for Free Trial"
+    },
+    "second": {
+      "label": "During on-site sales, various challenges arise, such as budget, manpower, communication, and lead management.",
+      "description": "Now, collaborate with capable sales managers\nand prepare for effective overseas expansion at a low cost.",
+      "button": "Learn More"
+    },
+    "accessibility": {
+      "mainGradientTop": "Top gradient background image",
+      "mainGradientBottom": "Bottom gradient background image",
+      "decorativeStar": "Decorative star icon",
+      "serviceImage1": "Service introduction image 1",
+      "serviceImage2": "Service introduction image 2",
+      "serviceImage3": "Service introduction image 3",
+      "scrollButton": "Scroll down",
+      "scrollIcon": "Scroll down icon",
+      "mainSection": "Main intro section",
+      "serviceSection": "Service intro section"
+    }
+  },
+  "advancePreparation": {
+    "label": "Advance Preparation",
+    "title": "Perfect preparation is the beginning of success.\nLeave the sales strategy to AI.",
+    "section1": {
+      "label": "Lead Discovery",
+      "title": "Find potential customers\nthat match your desired persona.",
+      "description": "If you describe your customers to Rinda, it will automatically set the search conditions and allow you to view customer profiles.",
+      "iconAlt": "Lead discovery icon",
+      "imageAlt": "Lead discovery image"
+    },
+    "section2": {
+      "label": "AI Message Sending",
+      "title": "AI writes direct messages\nand sends them automatically.",
+      "description": "Simply set the customer group and select the sending method.\nRinda analyzes your information and sends messages as if they were written by a person.",
+      "iconAlt": "AI message sending icon",
+      "imageAlt": "AI message sending image"
+    },
+    "section3": {
+      "label": "Pre-Event Strategy Planner",
+      "title": "Create a to-do list for on-site activities\nwith a single click.",
+      "description": "It creates a checklist tailored to various factors such as on-site information and your company's information.",
+      "iconAlt": "Pre-event strategy planner icon",
+      "imageAlt": "Pre-event strategy planner image"
+    },
+    "accessibility": {
+      "mainSection": "Advance preparation section",
+      "overlayImage": "Decorative overlay image",
+      "section1Region": "Lead discovery section",
+      "section2Region": "AI message sending section",
+      "section3Region": "Pre-event strategy planner section"
+    }
+  },
+  "onsiteSale": {
+    "label": "On-Site Sales",
+    "title": "Communicate quickly and manage efficiently\nwith a customized on-site customer response solution.",
+    "section1": {
+      "label": "Lead Discovery",
+      "title": "Find potential customers\nbased on company data-based recommendation strategies.",
+      "description": "If you describe your customers to Rinda, it will automatically set the search conditions and allow you to view customer profiles."
+    },
+    "section2": {
+      "label": "Business Card Scanning and Customer Management",
+      "title": "Scanning business cards solves\ncustomer management at once.",
+      "description": "If you take a picture of the business card you received and upload it, the customer information is automatically saved.\nYou can manage customers more systematically by linking it with the conversation history."
+    },
+    "accessibility": {
+      "mainSection": "On-site sales section",
+      "questionImage": "Lead discovery illustration",
+      "nameCardImage": "Digital business card illustration",
+      "section1Region": "Lead discovery section",
+      "section2Region": "Business card scanning and customer management section"
+    }
+  },
+  "afterCare": {
+    "label": "Post-Event Management",
+    "title": "Analyze results at a glance,\nand prepare for the next improved sales together.",
+    "items": {
+      "analysis": {
+        "title": "Conversation Analysis",
+        "description": "Collect conversations and post-event feedback from the field,\nand analyze them to provide insights."
+      },
+      "followup": {
+        "title": "Follow-Up Reminder",
+        "description": "Automatically send customized emails, messages, or proposals\nat specific timings after sales."
+      },
+      "roi": {
+        "title": "ROI Dashboard",
+        "description": "Automatically analyze and generate reports on ROI for campaigns, sales activities, and individual sales cases."
+      },
+      "retention": {
+        "title": "Retention & Upsell Strategy Recommendation",
+        "description": "Based on existing customers' usage patterns, discover additional purchase opportunities\nand suggest appropriate upselling and cross-selling strategies."
+      },
+      "segmentation": {
+        "title": "Customer Segmentation and Targeting Strategy",
+        "description": "Analyze customer data to identify specific target groups\nand suggest customized marketing and sales strategies for each group."
+      },
+      "conversion": {
+        "title": "Contract and Purchase Conversion Tracking",
+        "description": "Track the process of customers leading to contracts or purchases,\nand suggest follow-up actions for smooth progress."
+      },
+      "competitor": {
+        "title": "Competitor Benchmarking Report",
+        "description": "Recommend differentiated proposal strategies through market trends and competitor analysis."
+      },
+      "relationship": {
+        "title": "Long-Term Customer Relationship Strengthening Strategy",
+        "description": "Provide customized communication strategies to maintain continuous contact with customers and increase trust."
+      }
+    },
+    "carousel": {
+      "topLabel": "Main Post-Event Management Features",
+      "bottomLabel": "Additional Post-Event Management Features"
+    }
+  },
+  "usecase": {
+    "label": "Use Cases",
+    "title": "Rinda, you can apply it anywhere.\nSo that your sales never stop.",
+    "cases": {
+      "aria": {
+        "list": "List of use cases",
+        "item": "Use case item"
+      },
+      "conference": {
+        "title": "International Conferences\nand Seminars",
+        "description": "It supports participant networking and real-time\nQ&A to provide smooth communication.",
+        "imageAlt": "International conferences and seminars image"
+      },
+      "startup": {
+        "title": "Global Startup Pitching Event",
+        "description": "We help you make effective presentations by arranging\ninvestor meetings and sharing pitching materials.",
+        "imageAlt": "Global startup pitching event image"
+      },
+      "trade": {
+        "title": "Overseas Trade Consultation",
+        "description": "We support trade negotiations by matching\ncustomized buyer-seller matching and tracking consultation progress.",
+        "imageAlt": "Overseas trade consultation image"
+      },
+      "market": {
+        "title": "Regional Market Research",
+        "description": "We help you make strategic decisions by analyzing local trends and providing consumer data.",
+        "imageAlt": "Regional market research image"
+      }
+    }
+  },
+  "process": {
+    "label": "Process",
+    "title": "Recruiting a group of AI sales experts,\nIt only takes 3 days.",
+    "subtitle": "Efficient AI Sales Introduction",
+    "description": "Quickly and effectively introduce\ncustomized AI sales solutions.",
+    "subdescription": "We provide fast and stable support through a step-by-step process from introduction consultation to construction and operation.",
+    "steps": {
+      "step1": {
+        "title": "Inquiry for Introduction",
+        "description": "Conduct customized initial consultation for RINDA introduction"
+      },
+      "step2": {
+        "title": "Providing Quotation",
+        "description": "Provide customized quotation and optimized solution proposal"
+      },
+      "step3": {
+        "title": "System Construction",
+        "description": "Design and optimize customized AI sales environment"
+      },
+      "step4": {
+        "title": "Post-Support",
+        "description": "Provide R technical support and systematic operation management"
+      }
+    },
+    "accessibility": {
+      "processSteps": "Introduction process steps",
+      "currentStep": "Current step {step}",
+      "stepNumber": "Step {number}",
+      "processDescription": "Introduction process description"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "ariaLabel": "List of frequently asked questions",
+    "questionAriaLabel": "Question {number}",
+    "answerAriaLabel": "Answer {number}",
+    "items": [
+      {
+        "question": "Can I try it for free?",
+        "answer": "Currently, it is an open beta service, and you can try some limited functions for free. Advanced functions will be gradually\nintroduced after the official function is released, and please contact us separately if you need immediate introduction."
+      },
+      {
+        "question": "How do I make a payment?",
+        "answer": "Currently, it is an open beta service, and the payment system will be\nnotified through future inquiries. Please contact us separately if you wish to introduce it."
+      },
+      {
+        "question": "Do I need to install the program?",
+        "answer": "This service is a web-based service and can be used anywhere on a network service where Internet use is possible.\nIf you wish to use it in a closed environment such as an intranet, please contact us separately."
+      },
+      {
+        "question": "Can I purchase a tablet display?",
+        "answer": "Currently, we do not provide tablet displays separately, but they will be added to the future pricing plan.\nAlso, if you need a tablet device immediately, please contact us separately for detailed information."
+      }
+    ]
+  },
+  "salesAgent": {
+    "title": "3 in 1 Sales Agent",
+    "subtitle": "From pre-event preparation to on-site sales and customer management",
+    "description": "We've incorporated a team of 3 on-site sales experts into one Rinda.",
+    "button": "Apply for Free Trial",
+    "accessibility": {
+      "mainRegion": "Sales agent introduction section",
+      "contentRegion": "Sales agent main content",
+      "ctaButton": "Apply for free trial button"
+    }
+  },
+  "footer": {
+    "service": "Service",
+    "notice": "Notice",
+    "faq": "FAQ",
+    "company": "Company",
+    "companyInfo": "Company Info",
+    "inquiry": "Inquiry",
+    "businessPartnership": "Business Partnership",
+    "customerService": "Customer Service",
+    "phone": "Phone: +82-10-6326-9009",
+    "email": "Email: admin@grinda.ai",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "cookiesPolicy": "Cookies Policy",
+    "ccpaPolicy": "CCPA Policy",
+    "gdprPolicy": "GDPR Policy",
+    "doNotSellMyInfo": "Do Not Sell My Info",
+    "companyName": "Grinda AI",
+    "companyDetails": "Business Registration Number 309-88-02709 | CEO: Kang Hojin",
+    "address": "Address: Room 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Gung-dong, Daejeon Tip Town)",
+    "businessLicense": "Mail-order Business Registration Number: 2024-Daejeon Yuseong-0389",
+    "copyright": "Rinda AI. All rights reserved.",
+    "description": "Expand your business to the global market\nwith an AI-based exhibition participation solution.",
+    "accessibility": {
+      "footerNav": "Footer Navigation",
+      "serviceMenu": "Service Menu",
+      "companyMenu": "Company Information Menu",
+      "inquiryMenu": "Inquiry Menu",
+      "customerServiceMenu": "Customer Service Menu",
+      "socialLinks": "Social Media Links",
+      "companyAddress": "Company Address Information",
+      "legalInfo": "Legal Information"
+    }
+  },
+  "accessibility": {
+    "description": {
+      "iconAlt": "Section icon",
+      "defaultIconAlt": "File icon",
+      "region": "Description section"
+    }
+  },
+  "ccpa": {
+    "title": "CCPA Privacy Policy",
+    "effectiveDate": "Effective Date: February 14, 2025",
+    "sections": {
+      "overview": {
+        "title": "1. Policy Overview",
+        "content": "This privacy policy has been established to protect California consumers' rights regarding personal information collected through the \"Rinda\" service (https://rinda.ai). The company processes personal information transparently and legally in accordance with CCPA requirements and provides the following rights to California residents."
+      },
+      "dataCollection": {
+        "title": "2. Personal Information Collection and Usage",
+        "intro": "The company collects the following personal information to provide the \"Rinda\" service:",
+        "items": {
+          "title": "Collection Items",
+          "required": {
+            "title": "Required Items",
+            "content": "Name, Email address, Contact information, Login information"
+          },
+          "additional": {
+            "title": "Additional Items",
+            "content": "IP address, Cookies, Service usage records"
+          }
+        },
+        "purposes": {
+          "title": "Usage Purposes",
+          "list": [
+            "Service provision and customer support",
+            "User experience improvement and personalized service",
+            "Marketing, analytics, and security maintenance"
+          ]
+        }
+      },
+      "rights": {
+        "title": "3. California Consumer Rights",
+        "intro": "Under CCPA, California consumers have the following rights:",
+        "list": {
+          "access": {
+            "title": "Right to Access",
+            "content": "Consumers have the right to access categories and specific pieces of personal information held by the company."
+          },
+          "deletion": {
+            "title": "Right to Delete",
+            "content": "Consumers can request deletion of their personal information under certain conditions."
+          },
+          "optOut": {
+            "title": "Right to Opt-Out",
+            "content": "Consumers have the right to opt-out of the sale or sharing of their personal information to third parties."
+          },
+          "nonDiscrimination": {
+            "title": "Right to Non-Discrimination",
+            "content": "Consumers are guaranteed not to face any disadvantage or discrimination for exercising their privacy rights."
+          }
+        }
+      },
+      "dataSharingAndSale": {
+        "title": "4. Personal Information Sale and Sharing",
+        "list": {
+          "thirdParty": {
+            "title": "Third-Party Sharing",
+            "content": "The company does not sell or share California consumers' personal information with third parties except when required by law or with explicit consumer consent."
+          },
+          "optOut": {
+            "title": "Opt-Out",
+            "content": "Consumers can opt-out of third-party sharing of their personal information at any time through the 'Personal Information Access and Deletion Request' procedure below."
+          }
+        }
+      },
+      "accessAndDeletion": {
+        "title": "5. Personal Information Access and Deletion Requests",
+        "procedure": {
+          "title": "Request Procedure",
+          "steps": [
+            "Submit requests through the contact information provided (email, phone, mail).",
+            "The company will process the request after completing reasonable procedures to verify consumer identity."
+          ]
+        },
+        "processingTime": {
+          "title": "Processing Time",
+          "content": "Results will be notified within 45 days of request receipt."
+        }
+      },
+      "policyChanges": {
+        "title": "6. Policy Changes and Updates",
+        "content": "The company may modify this privacy policy due to legal changes, service improvements, or other reasons.",
+        "notification": {
+          "title": "Notification Method",
+          "content": "Changes will be notified through the \"Rinda\" service announcements or website, and the modified policy takes effect immediately upon posting."
+        }
+      },
+      "contact": {
+        "title": "7. Inquiries and Contact Information",
+        "intro": "For CCPA-related inquiries or personal information requests, please contact us at:",
+        "info": {
+          "companyName": "Company Name: Grinda AI Inc.",
+          "department": "Department: Privacy Protection Team",
+          "email": "Email: privacy@grinda.ai",
+          "phone": "Phone: +82-10-6326-9009",
+          "address": "Address: Room 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Tip Town)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "metaData": {
+    "title": "Rinda - KI-basierte Komplettlösung für persönliche Verkaufsunterstützung auf Messen",
+    "description": "Von Empfehlungen zur Messevorbereitung über Echtzeit-Dolmetschen bis hin zum Kundenkontaktmanagement nach der Veranstaltung. Rinda, Ihr KI-Verkaufsassistent vor Ort",
+    "keywords": "Messeverkauf, Verkauf vor Ort, persönlicher Verkauf, B2B SaaS, Echtzeit-Dolmetschen, KI-Agent, Gesprächsanalyse, Vorverkauf"
+  },
+  "header": {
+    "usecase": "Anwendungsfälle",
+    "process": "Prozess",
+    "blog": "Blog",
+    "getStarted": "Loslegen",
+    "languageSelect": "Sprache auswählen",
+    "closeMenu": "Menü schließen",
+    "openMenu": "Menü öffnen",
+    "homeLink": "Zur Startseite",
+    "mainNavigation": "Hauptnavigation",
+    "selectLanguage": "Sprache auswählen",
+    "switchLanguage": "Sprache zu {language} ändern"
+  },
+  "intro": {
+    "first": {
+      "label": "Überwinden Sie die Grenzen des Verkaufs vor Ort",
+      "title": {
+        "part1": "KI für",
+        "part2": "Verkauf",
+        "part3": "Automatisieren Sie",
+        "part4": "Ihren Vor-Ort-"
+      },
+      "description": "Von der Vorbereitung der Veranstaltung über den Verkauf vor Ort bis hin zum Kundenmanagement.\nWir haben ein Team von 3 Verkaufsexperten vor Ort in einer Rinda integriert.",
+      "button": "Kostenlose Testversion beantragen"
+    },
+    "second": {
+      "label": "Beim Verkauf vor Ort entstehen verschiedene Herausforderungen wie Budget, Personal, Kommunikation und Lead-Management.",
+      "description": "Arbeiten Sie jetzt mit fähigen Verkaufsleitern zusammen\nund bereiten Sie sich kostengünstig auf eine effektive Expansion ins Ausland vor.",
+      "button": "Mehr erfahren"
+    },
+    "accessibility": {
+      "mainGradientTop": "Oberes Farbverlaufshintergrundbild",
+      "mainGradientBottom": "Hintergrundbild mit Farbverlauf unten",
+      "decorativeStar": "Dekoratives Sternsymbol",
+      "serviceImage1": "Dienstleistungseinführungsbild 1",
+      "serviceImage2": "Dienstleistungseinführungsbild 2",
+      "serviceImage3": "Dienstleistungseinführungsbild 3",
+      "scrollButton": "Nach unten scrollen",
+      "scrollIcon": "Nach unten scrollen-Symbol",
+      "mainSection": "Haupteinführungsbereich",
+      "serviceSection": "Dienstleistungseinführungsbereich"
+    }
+  },
+  "advancePreparation": {
+    "label": "Vorabvorbereitung",
+    "title": "Perfekte vorbereitung ist der anfang des erfolgs.\nüberlassen sie die verkaufsstrategie der ki.",
+    "section1": {
+      "label": "Lead-Entdeckung",
+      "title": "Finden sie potenzielle kunden,\ndie zu ihrem gewünschten profil passen.",
+      "description": "Wenn sie Rinda ihre kunden beschreiben, werden die suchbedingungen automatisch festgelegt und sie können kundenprofile einsehen.",
+      "iconAlt": "Lead-Entdeckungssymbol",
+      "imageAlt": "Lead-Entdeckungsbild"
+    },
+    "section2": {
+      "label": "KI-Nachrichtenversand",
+      "title": "Ki verfasst direktnachrichten\nund versendet sie automatisch.",
+      "description": "Legen sie einfach die kundengruppe fest und wählen sie die versandmethode aus.\nRinda analysiert ihre informationen und sendet nachrichten, als wären sie von einer person geschrieben.",
+      "iconAlt": "KI-Nachrichtenversandsymbol",
+      "imageAlt": "KI-Nachrichtenversandbild"
+    },
+    "section3": {
+      "label": "Vorab-Strategieplaner für Veranstaltungen",
+      "title": "Erstellen sie mit einem klick eine to-do-liste\nfür aktivitäten vor ort.",
+      "description": "Es erstellt eine checkliste, die auf verschiedene faktoren wie informationen vor ort und ihre unternehmensinformationen zugeschnitten ist.",
+      "iconAlt": "Vorab-Strategieplaner-Symbol für Veranstaltungen",
+      "imageAlt": "Bild des Vorveranstaltungs-Strategieplaners"
+    },
+    "accessibility": {
+      "mainSection": "Abschnitt zur Vorabvorbereitung",
+      "overlayImage": "Dekoratives Überlagerungsbild",
+      "section1Region": "Abschnitt zur Lead-Entdeckung",
+      "section2Region": "Abschnitt zum KI-Nachrichtenversand",
+      "section3Region": "Abschnitt zum Vorveranstaltungs-Strategieplaner"
+    }
+  },
+  "onsiteSale": {
+    "label": "Vor-Ort-Verkauf",
+    "title": "Kommunizieren sie schnell und verwalten sie effizient\nmit einer maßgeschneiderten lösung für kundenanfragen vor ort.",
+    "section1": {
+      "label": "Lead-Entdeckung",
+      "title": "Finden sie potenzielle kunden\nbasierend auf unternehmensbasierten empfehlungsstrategien.",
+      "description": "Wenn sie Rinda ihre kunden beschreiben, werden automatisch die suchbedingungen festgelegt und sie können kundenprofile einsehen."
+    },
+    "section2": {
+      "label": "Visitenkarten-Scanning und Kundenverwaltung",
+      "title": "Das scannen von visitenkarten löst\ndie kundenverwaltung auf einen schlag.",
+      "description": "Wenn sie ein foto der erhaltenen visitenkarte machen und hochladen, werden die kundeninformationen automatisch gespeichert.\nsie können kunden systematischer verwalten, indem sie diese mit dem gesprächsverlauf verknüpfen."
+    },
+    "accessibility": {
+      "mainSection": "Abschnitt zum Vor-Ort-Verkauf",
+      "questionImage": "Illustration zur Lead-Entdeckung",
+      "nameCardImage": "Illustration der digitalen Visitenkarte",
+      "section1Region": "Abschnitt zur Lead-Entdeckung",
+      "section2Region": "Abschnitt zum Visitenkarten-Scanning und zur Kundenverwaltung"
+    }
+  },
+  "afterCare": {
+    "label": "Nachbetreuung",
+    "title": "Analysieren sie ergebnisse auf einen blick\nund bereiten sie sich gemeinsam auf den nächsten verbesserten verkauf vor.",
+    "items": {
+      "analysis": {
+        "title": "Gesprächsanalyse",
+        "description": "Sammeln sie gespräche und feedback nach der veranstaltung vor ort\nund analysieren sie diese, um erkenntnisse zu gewinnen."
+      },
+      "followup": {
+        "title": "Nachfass-Erinnerung",
+        "description": "Senden sie automatisch personalisierte e-mails, nachrichten oder angebote\nzu bestimmten zeitpunkten nach dem verkauf."
+      },
+      "roi": {
+        "title": "ROI-Dashboard",
+        "description": "Analysieren und generieren Sie automatisch Berichte über den ROI für Kampagnen, Vertriebsaktivitäten und einzelne Verkaufsfälle."
+      },
+      "retention": {
+        "title": "Empfehlung für Kundenbindungs- und Upselling-Strategien",
+        "description": "Entdecken Sie basierend auf den Nutzungsmustern bestehender Kunden zusätzliche Kaufmöglichkeiten\nund schlagen Sie geeignete Upselling- und Cross-Selling-Strategien vor."
+      },
+      "segmentation": {
+        "title": "Kundensegmentierung und Zielgruppenstrategie",
+        "description": "Analysieren Sie Kundendaten, um spezifische Zielgruppen zu identifizieren\nund schlagen Sie maßgeschneiderte Marketing- und Vertriebsstrategien für jede Gruppe vor."
+      },
+      "conversion": {
+        "title": "Vertrags- und Kaufkonversions-Tracking",
+        "description": "Verfolgen Sie den Prozess der Kunden bis zum Vertragsabschluss oder Kauf\nund schlagen Sie Folgemaßnahmen für einen reibungslosen Fortschritt vor."
+      },
+      "competitor": {
+        "title": "Wettbewerbs-Benchmarking-Bericht",
+        "description": "Empfehlen Sie differenzierte Angebotsstrategien durch Markttrends und Wettbewerbsanalysen."
+      },
+      "relationship": {
+        "title": "Strategie zur Stärkung langfristiger Kundenbeziehungen",
+        "description": "Bieten Sie maßgeschneiderte Kommunikationsstrategien, um kontinuierlichen Kontakt mit Kunden zu halten und das Vertrauen zu stärken."
+      }
+    },
+    "carousel": {
+      "topLabel": "Hauptfunktionen der Nachbetreuung",
+      "bottomLabel": "Zusätzliche Funktionen der Nachbetreuung"
+    }
+  },
+  "usecase": {
+    "label": "Anwendungsfälle",
+    "title": "Rinda, Sie können es überall einsetzen.\nDamit Ihr Vertrieb niemals stoppt.",
+    "cases": {
+      "aria": {
+        "list": "Liste der Anwendungsfälle",
+        "item": "Anwendungsfall-Element"
+      },
+      "conference": {
+        "title": "Internationale Konferenzen\nund Seminare",
+        "description": "Es unterstützt Teilnehmer-Networking und Echtzeit-\nQ&A für eine reibungslose Kommunikation.",
+        "imageAlt": "Bild von internationalen Konferenzen und Seminaren"
+      },
+      "startup": {
+        "title": "Globales Startup-Pitching-Event",
+        "description": "Wir helfen Ihnen, effektive Präsentationen zu halten, indem wir\nInvestorentreffen arrangieren und Pitching-Materialien teilen.",
+        "imageAlt": "Bild eines globalen Startup-Pitching-Events"
+      },
+      "trade": {
+        "title": "Übersee-Handelsberatung",
+        "description": "Wir unterstützen Handelsverhandlungen durch maßgeschneiderte Käufer-Verkäufer-Zuordnung und Verfolgung des Beratungsfortschritts.",
+        "imageAlt": "Bild zur Übersee-Handelsberatung"
+      },
+      "market": {
+        "title": "Regionale Marktforschung",
+        "description": "Wir helfen Ihnen bei strategischen Entscheidungen durch die Analyse lokaler Trends und die Bereitstellung von Verbraucherdaten.",
+        "imageAlt": "Bild zur regionalen Marktforschung"
+      }
+    }
+  },
+  "process": {
+    "label": "Prozess",
+    "title": "Rekrutierung einer Gruppe von KI-Vertriebsexperten,\nes dauert nur 3 Tage.",
+    "subtitle": "Effiziente KI-Vertriebseinführung",
+    "description": "Schnelle und effektive Einführung\nmaßgeschneiderter KI-Vertriebslösungen.",
+    "subdescription": "Wir bieten schnelle und stabile Unterstützung durch einen schrittweisen Prozess von der Einführungsberatung bis hin zur Implementierung und zum Betrieb.",
+    "steps": {
+      "step1": {
+        "title": "Anfrage zur Einführung",
+        "description": "Durchführung einer maßgeschneiderten Erstberatung für die RINDA-Einführung"
+      },
+      "step2": {
+        "title": "Angebotserstellung",
+        "description": "Bereitstellung eines maßgeschneiderten Angebots und optimierten Lösungsvorschlags"
+      },
+      "step3": {
+        "title": "Systemaufbau",
+        "description": "Gestaltung und Optimierung einer maßgeschneiderten KI-Vertriebsumgebung"
+      },
+      "step4": {
+        "title": "Nachbetreuung",
+        "description": "Bereitstellung von technischem R-Support und systematischem Betriebsmanagement"
+      }
+    },
+    "accessibility": {
+      "processSteps": "Schritte des Einführungsprozesses",
+      "currentStep": "Aktueller Schritt {step}",
+      "stepNumber": "Schritt {number}",
+      "processDescription": "Beschreibung des Einführungsprozesses"
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "ariaLabel": "Liste häufig gestellter Fragen",
+    "questionAriaLabel": "Frage {number}",
+    "answerAriaLabel": "Antwort {number}",
+    "items": [
+      {
+        "question": "Kann ich es kostenlos ausprobieren?",
+        "answer": "Derzeit handelt es sich um einen offenen Beta-Service, und Sie können einige begrenzte Funktionen kostenlos ausprobieren. Erweiterte Funktionen werden nach der Veröffentlichung der offiziellen Funktion schrittweise eingeführt. Bitte kontaktieren Sie uns separat, wenn Sie eine sofortige Einführung benötigen."
+      },
+      {
+        "question": "Wie kann ich eine Zahlung vornehmen?",
+        "answer": "Derzeit handelt es sich um einen offenen Beta-Service, und das Zahlungssystem wird durch zukünftige Anfragen bekannt gegeben. Bitte kontaktieren Sie uns separat, wenn Sie es einführen möchten."
+      },
+      {
+        "question": "Muss ich das Programm installieren?",
+        "answer": "Dieser Service ist ein webbasierter Dienst und kann überall in einem Netzwerkdienst genutzt werden, wo Internetnutzung möglich ist. Wenn Sie ihn in einer geschlossenen Umgebung wie einem Intranet nutzen möchten, kontaktieren Sie uns bitte separat."
+      },
+      {
+        "question": "Kann ich ein Tablet-Display kaufen?",
+        "answer": "Derzeit bieten wir keine separaten Tablet-Displays an, aber sie werden in Zukunft in den Preisplan aufgenommen. Wenn Sie sofort ein Tablet-Gerät benötigen, kontaktieren Sie uns bitte separat für detaillierte Informationen."
+      }
+    ]
+  },
+  "salesAgent": {
+    "title": "3 in 1 Verkaufsagent",
+    "subtitle": "Von der Vorbereitung vor der Veranstaltung bis zum Vor-Ort-Verkauf und Kundenmanagement",
+    "description": "Wir haben ein Team von 3 Vor-Ort-Verkaufsexperten in einer Rinda zusammengefasst.",
+    "button": "Kostenlose Testversion beantragen",
+    "accessibility": {
+      "mainRegion": "Abschnitt zur Vorstellung des Verkaufsagenten",
+      "contentRegion": "Hauptinhalt des Verkaufsagenten",
+      "ctaButton": "Schaltfläche zur Beantragung einer kostenlosen Testversion"
+    }
+  },
+  "footer": {
+    "service": "Service",
+    "notice": "Hinweis",
+    "faq": "FAQ",
+    "company": "Unternehmen",
+    "companyInfo": "Unternehmensinformationen",
+    "inquiry": "Anfrage",
+    "businessPartnership": "Geschäftspartnerschaft",
+    "customerService": "Kundenservice",
+    "phone": "Telefon: +82-10-6326-9009",
+    "email": "E-Mail: admin@grinda.ai",
+    "termsOfService": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "cookiesPolicy": "Cookie-Richtlinie",
+    "ccpaPolicy": "CCPA-Richtlinie",
+    "gdprPolicy": "DSGVO-Richtlinie",
+    "doNotSellMyInfo": "Meine Daten nicht verkaufen",
+    "companyName": "Grinda AI",
+    "companyDetails": "Handelsregisternummer 309-88-02709 | CEO: Kang Hojin",
+    "address": "Adresse: Raum 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Gung-dong, Daejeon Tip Town)",
+    "businessLicense": "Registrierungsnummer für Versandhandel: 2024-Daejeon Yuseong-0389",
+    "copyright": "Rinda AI. Alle Rechte vorbehalten.",
+    "description": "Erweitern Sie Ihr Geschäft auf den globalen Markt\nmit einer KI-basierten Lösung für Messeteilnahmen.",
+    "accessibility": {
+      "footerNav": "Fußzeilen-Navigation",
+      "serviceMenu": "Service-Menü",
+      "companyMenu": "Unternehmensinformations-Menü",
+      "inquiryMenu": "Anfrage-Menü",
+      "customerServiceMenu": "Kundenservice-Menü",
+      "socialLinks": "Social-Media-Links",
+      "companyAddress": "Firmenadresse",
+      "legalInfo": "Rechtliche Informationen"
+    }
+  },
+  "accessibility": {
+    "description": {
+      "iconAlt": "Bereichssymbol",
+      "defaultIconAlt": "Dateisymbol",
+      "region": "Beschreibungsbereich"
+    }
+  },
+  "ccpa": {
+    "title": "CCPA-Datenschutzrichtlinie",
+    "effectiveDate": "Datum des Inkrafttretens: 14. Februar 2025",
+    "sections": {
+      "overview": {
+        "title": "1. Überblick über die Richtlinie",
+        "content": "Diese Datenschutzrichtlinie wurde erstellt, um die Rechte kalifornischer Verbraucher in Bezug auf personenbezogene Daten zu schützen, die über den \"Rinda\"-Dienst (https://rinda.ai) erfasst werden. Das Unternehmen verarbeitet personenbezogene Daten transparent und rechtmäßig gemäß den CCPA-Anforderungen und gewährt kalifornischen Einwohnern die folgenden Rechte."
+      },
+      "dataCollection": {
+        "title": "2. Erhebung und Verwendung personenbezogener Daten",
+        "intro": "Das Unternehmen erhebt die folgenden personenbezogenen Daten, um den \"Rinda\"-Dienst bereitzustellen:",
+        "items": {
+          "title": "Erhobene Daten",
+          "required": {
+            "title": "Erforderliche Angaben",
+            "content": "Name, E-Mail-Adresse, Kontaktinformationen, Anmeldeinformationen"
+          },
+          "additional": {
+            "title": "Zusätzliche Angaben",
+            "content": "IP-Adresse, Cookies, Dienstnutzungsprotokolle"
+          }
+        },
+        "purposes": {
+          "title": "Verwendungszwecke",
+          "list": [
+            "Bereitstellung des Dienstes und Kundensupport",
+            "Verbesserung der Benutzererfahrung und personalisierter Service",
+            "Marketing, Analysen und Aufrechterhaltung der Sicherheit"
+          ]
+        }
+      },
+      "rights": {
+        "title": "3. Rechte kalifornischer Verbraucher",
+        "intro": "Gemäß CCPA haben kalifornische Verbraucher die folgenden Rechte:",
+        "list": {
+          "access": {
+            "title": "Recht auf Auskunft",
+            "content": "Verbraucher haben das Recht, Auskunft über die Kategorien und spezifischen Teile der vom Unternehmen gespeicherten personenbezogenen Daten zu erhalten."
+          },
+          "deletion": {
+            "title": "Recht auf Löschung",
+            "content": "Verbraucher können unter bestimmten Bedingungen die Löschung ihrer personenbezogenen Daten beantragen."
+          },
+          "optOut": {
+            "title": "Recht auf Widerspruch",
+            "content": "Verbraucher haben das Recht, der Weitergabe oder dem Verkauf ihrer personenbezogenen Daten an Dritte zu widersprechen."
+          },
+          "nonDiscrimination": {
+            "title": "Recht auf Nichtdiskriminierung",
+            "content": "Verbrauchern wird garantiert, dass sie bei der Ausübung ihrer Datenschutzrechte keine Nachteile oder Diskriminierung erfahren."
+          }
+        }
+      },
+      "dataSharingAndSale": {
+        "title": "4. Verkauf und Weitergabe personenbezogener Daten",
+        "list": {
+          "thirdParty": {
+            "title": "Weitergabe an Dritte",
+            "content": "Das Unternehmen verkauft oder teilt keine persönlichen Informationen von kalifornischen Verbrauchern mit Dritten, außer wenn dies gesetzlich vorgeschrieben ist oder mit ausdrücklicher Zustimmung des Verbrauchers erfolgt."
+          },
+          "optOut": {
+            "title": "Opt-out",
+            "content": "Verbraucher können jederzeit über das unten beschriebene Verfahren \"Anfrage auf Zugang und Löschung persönlicher Informationen\" von der Weitergabe ihrer persönlichen Informationen an Dritte abmelden."
+          }
+        }
+      },
+      "accessAndDeletion": {
+        "title": "5. Anfragen auf Zugang und Löschung persönlicher Informationen",
+        "procedure": {
+          "title": "Antragsverfahren",
+          "steps": [
+            "Reichen Sie Anfragen über die angegebenen Kontaktinformationen ein (E-Mail, Telefon, Post).",
+            "Das Unternehmen wird die Anfrage bearbeiten, nachdem angemessene Verfahren zur Überprüfung der Identität des Verbrauchers abgeschlossen sind."
+          ]
+        },
+        "processingTime": {
+          "title": "Bearbeitungszeit",
+          "content": "Die Ergebnisse werden innerhalb von 45 Tagen nach Eingang der Anfrage mitgeteilt."
+        }
+      },
+      "policyChanges": {
+        "title": "6. Änderungen und Aktualisierungen der Richtlinie",
+        "content": "Das Unternehmen kann diese Datenschutzrichtlinie aufgrund von gesetzlichen Änderungen, Serviceverbesserungen oder aus anderen Gründen ändern.",
+        "notification": {
+          "title": "Benachrichtigungsmethode",
+          "content": "Änderungen werden über die \"Rinda\"-Service-Ankündigungen oder die Website mitgeteilt, und die geänderte Richtlinie tritt unmittelbar nach der Veröffentlichung in Kraft."
+        }
+      },
+      "contact": {
+        "title": "7. Anfragen und Kontaktinformationen",
+        "intro": "Für CCPA-bezogene Anfragen oder Anfragen zu persönlichen Informationen kontaktieren Sie uns bitte unter:",
+        "info": {
+          "companyName": "Firmenname: Grinda AI Inc.",
+          "department": "Abteilung: Datenschutzteam",
+          "email": "E-Mail: privacy@grinda.ai",
+          "phone": "Telefon: +82-10-6326-9009",
+          "address": "Adresse: Raum 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Tip Town)"
+        }
+      }
+    }
+  }
+}

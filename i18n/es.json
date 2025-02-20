@@ -1,0 +1,383 @@
+{
+  "metaData": {
+    "title": "Rinda - Solución todo en uno de soporte de ventas presenciales basada en IA para exposiciones",
+    "description": "Desde recomendaciones de pre-estrategia para exposiciones hasta interpretación en tiempo real y gestión de clientes posterior al evento. Rinda, tu asistente de ventas con IA en el sitio",
+    "keywords": "Ventas en exposiciones, Ventas en el sitio, Ventas presenciales, SaaS B2B, Interpretación en tiempo real, Agente de IA, Análisis de conversación, Pre-ventas"
+  },
+  "header": {
+    "usecase": "Casos de uso",
+    "process": "Proceso",
+    "blog": "Blog",
+    "getStarted": "Comenzar",
+    "languageSelect": "Seleccionar idioma",
+    "closeMenu": "Cerrar menú",
+    "openMenu": "Abrir menú",
+    "homeLink": "Ir a la página de inicio",
+    "mainNavigation": "Navegación principal",
+    "selectLanguage": "Seleccionar idioma",
+    "switchLanguage": "Cambiar idioma a {language}"
+  },
+  "intro": {
+    "first": {
+      "label": "Supera las limitaciones de las ventas presenciales",
+      "title": {
+        "part1": "IA para",
+        "part2": "ventas",
+        "part3": "Automatiza",
+        "part4": "tus ventas presenciales"
+      },
+      "description": "Desde la preparación previa al evento hasta las ventas en el sitio y la gestión de clientes.\nHemos incorporado un equipo de 3 expertos en ventas presenciales en una sola Rinda.",
+      "button": "Solicitar prueba gratuita"
+    },
+    "second": {
+      "label": "Durante las ventas presenciales, surgen varios desafíos como presupuesto, personal, comunicación y gestión de leads.",
+      "description": "Ahora, colabora con gerentes de ventas capaces\ny prepárate para una expansión internacional efectiva a bajo costo.",
+      "button": "Saber más"
+    },
+    "accessibility": {
+      "mainGradientTop": "Imagen de fondo con gradiente superior",
+      "mainGradientBottom": "Imagen de fondo con degradado inferior",
+      "decorativeStar": "Icono decorativo de estrella",
+      "serviceImage1": "Imagen de introducción del servicio 1",
+      "serviceImage2": "Imagen de introducción del servicio 2",
+      "serviceImage3": "Imagen de introducción del servicio 3",
+      "scrollButton": "Desplazarse hacia abajo",
+      "scrollIcon": "Icono de desplazamiento hacia abajo",
+      "mainSection": "Sección principal de introducción",
+      "serviceSection": "Sección de introducción del servicio"
+    }
+  },
+  "advancePreparation": {
+    "label": "Preparación anticipada",
+    "title": "La preparación perfecta es el comienzo del éxito.\ndeja la estrategia de ventas a la IA.",
+    "section1": {
+      "label": "Descubrimiento de leads",
+      "title": "Encuentra clientes potenciales\nque coincidan con tu perfil deseado.",
+      "description": "Si describes tus clientes a Rinda, establecerá automáticamente las condiciones de búsqueda y te permitirá ver los perfiles de los clientes.",
+      "iconAlt": "Icono de descubrimiento de leads",
+      "imageAlt": "Imagen de descubrimiento de leads"
+    },
+    "section2": {
+      "label": "Envío de mensajes por IA",
+      "title": "La IA escribe mensajes directos\ny los envía automáticamente.",
+      "description": "Simplemente configura el grupo de clientes y selecciona el método de envío.\nRinda analiza tu información y envía mensajes como si fueran escritos por una persona.",
+      "iconAlt": "Icono de envío de mensajes por IA",
+      "imageAlt": "Imagen de envío de mensajes por IA"
+    },
+    "section3": {
+      "label": "Planificador de estrategia previa al evento",
+      "title": "Crea una lista de tareas para actividades in situ\ncon un solo clic.",
+      "description": "Crea una lista de verificación adaptada a varios factores como la información del lugar y la información de tu empresa.",
+      "iconAlt": "Icono del planificador de estrategia previa al evento",
+      "imageAlt": "Imagen del planificador de estrategia previa al evento"
+    },
+    "accessibility": {
+      "mainSection": "Sección de preparación anticipada",
+      "overlayImage": "Imagen decorativa superpuesta",
+      "section1Region": "Sección de descubrimiento de leads",
+      "section2Region": "Sección de envío de mensajes con IA",
+      "section3Region": "Sección del planificador de estrategia previa al evento"
+    }
+  },
+  "onsiteSale": {
+    "label": "Ventas in situ",
+    "title": "Comunícate rápidamente y gestiona eficientemente\ncon una solución personalizada de respuesta al cliente en el lugar.",
+    "section1": {
+      "label": "Descubrimiento de leads",
+      "title": "Encuentra clientes potenciales\nbasados en estrategias de recomendación fundamentadas en datos de la empresa.",
+      "description": "Si describes tus clientes a Rinda, establecerá automáticamente las condiciones de búsqueda y te permitirá ver los perfiles de los clientes."
+    },
+    "section2": {
+      "label": "Escaneo de tarjetas de visita y gestión de clientes",
+      "title": "El escaneo de tarjetas de visita resuelve\nla gestión de clientes de una vez.",
+      "description": "Si tomas una foto de la tarjeta de visita que recibiste y la subes, la información del cliente se guarda automáticamente.\nPuedes gestionar a los clientes de manera más sistemática vinculándola con el historial de conversaciones."
+    },
+    "accessibility": {
+      "mainSection": "Sección de ventas in situ",
+      "questionImage": "Ilustración de descubrimiento de leads",
+      "nameCardImage": "Ilustración de tarjeta de visita digital",
+      "section1Region": "Sección de descubrimiento de leads",
+      "section2Region": "Sección de escaneo de tarjetas de visita y gestión de clientes"
+    }
+  },
+  "afterCare": {
+    "label": "Gestión post-evento",
+    "title": "Analiza los resultados de un vistazo\ny prepárate para las próximas ventas mejoradas juntos.",
+    "items": {
+      "analysis": {
+        "title": "Análisis de conversaciones",
+        "description": "Recopila conversaciones y comentarios post-evento del campo,\ny analízalos para proporcionar insights."
+      },
+      "followup": {
+        "title": "Recordatorio de seguimiento",
+        "description": "Envía automáticamente correos electrónicos personalizados, mensajes o propuestas\nen momentos específicos después de las ventas."
+      },
+      "roi": {
+        "title": "Panel de control de ROI",
+        "description": "Analiza y genera automáticamente informes sobre el ROI de campañas, actividades de ventas y casos de ventas individuales."
+      },
+      "retention": {
+        "title": "Recomendación de estrategia de retención y venta adicional",
+        "description": "Basado en los patrones de uso de los clientes existentes, descubre oportunidades de compra adicionales\ny sugiere estrategias apropiadas de venta adicional y cruzada."
+      },
+      "segmentation": {
+        "title": "Segmentación de clientes y estrategia de orientación",
+        "description": "Analiza los datos de los clientes para identificar grupos objetivo específicos\ny sugiere estrategias de marketing y ventas personalizadas para cada grupo."
+      },
+      "conversion": {
+        "title": "Seguimiento de conversión de contratos y compras",
+        "description": "Rastrea el proceso de los clientes que conducen a contratos o compras,\ny sugiere acciones de seguimiento para un progreso fluido."
+      },
+      "competitor": {
+        "title": "Informe de evaluación comparativa de la competencia",
+        "description": "Recomienda estrategias de propuesta diferenciadas a través del análisis de tendencias del mercado y de la competencia."
+      },
+      "relationship": {
+        "title": "Estrategia de fortalecimiento de relaciones a largo plazo con clientes",
+        "description": "Proporciona estrategias de comunicación personalizadas para mantener un contacto continuo con los clientes y aumentar la confianza."
+      }
+    },
+    "carousel": {
+      "topLabel": "Principales características de gestión post-evento",
+      "bottomLabel": "Características adicionales de gestión post-evento"
+    }
+  },
+  "usecase": {
+    "label": "Casos de uso",
+    "title": "Rinda, puedes aplicarlo en cualquier lugar.\nPara que tus ventas nunca se detengan.",
+    "cases": {
+      "aria": {
+        "list": "Lista de casos de uso",
+        "item": "Elemento de caso de uso"
+      },
+      "conference": {
+        "title": "Conferencias y seminarios\ninternacionales",
+        "description": "Apoya el networking de los participantes y las preguntas y respuestas en tiempo real para proporcionar una comunicación fluida.",
+        "imageAlt": "Imagen de conferencias y seminarios internacionales"
+      },
+      "startup": {
+        "title": "Evento de pitch de startups globales",
+        "description": "Te ayudamos a hacer presentaciones efectivas organizando\nreuniones con inversores y compartiendo materiales de pitch.",
+        "imageAlt": "Imagen de evento de pitch de startups globales"
+      },
+      "trade": {
+        "title": "Consulta de comercio internacional",
+        "description": "Apoyamos las negociaciones comerciales mediante la combinación personalizada de compradores y vendedores y el seguimiento del progreso de las consultas.",
+        "imageAlt": "Imagen de consulta de comercio internacional"
+      },
+      "market": {
+        "title": "Investigación de mercado regional",
+        "description": "Te ayudamos a tomar decisiones estratégicas analizando las tendencias locales y proporcionando datos de los consumidores.",
+        "imageAlt": "Imagen de investigación de mercado regional"
+      }
+    }
+  },
+  "process": {
+    "label": "Proceso",
+    "title": "Reclutar un grupo de expertos en ventas con IA,\nsolo toma 3 días.",
+    "subtitle": "Introducción eficiente de ventas con IA",
+    "description": "Introduce rápida y eficazmente\nsoluciones de ventas con IA personalizadas.",
+    "subdescription": "Proporcionamos un soporte rápido y estable a través de un proceso paso a paso, desde la consulta de introducción hasta la construcción y operación.",
+    "steps": {
+      "step1": {
+        "title": "Consulta de introducción",
+        "description": "Realizar una consulta inicial personalizada para la introducción de RINDA"
+      },
+      "step2": {
+        "title": "Proporcionar presupuesto",
+        "description": "Proporcionar un presupuesto personalizado y una propuesta de solución optimizada"
+      },
+      "step3": {
+        "title": "Construcción del sistema",
+        "description": "Diseñar y optimizar un entorno de ventas con IA personalizado"
+      },
+      "step4": {
+        "title": "Soporte posterior",
+        "description": "Proporcionar soporte técnico de R y gestión sistemática de operaciones"
+      }
+    },
+    "accessibility": {
+      "processSteps": "Pasos del proceso de introducción",
+      "currentStep": "Paso actual {step}",
+      "stepNumber": "Paso {number}",
+      "processDescription": "Descripción del proceso de introducción"
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "ariaLabel": "Lista de preguntas frecuentes",
+    "questionAriaLabel": "Pregunta {number}",
+    "answerAriaLabel": "Respuesta {number}",
+    "items": [
+      {
+        "question": "¿Puedo probarlo gratis?",
+        "answer": "Actualmente, es un servicio beta abierto y puedes probar algunas funciones limitadas de forma gratuita. Las funciones avanzadas se introducirán gradualmente después del lanzamiento oficial. Por favor, contáctanos por separado si necesitas una introducción inmediata."
+      },
+      {
+        "question": "¿Cómo puedo realizar un pago?",
+        "answer": "Actualmente, es un servicio beta abierto y el sistema de pago se notificará a través de futuras consultas. Por favor, contáctanos por separado si deseas implementarlo."
+      },
+      {
+        "question": "¿Necesito instalar el programa?",
+        "answer": "Este servicio es basado en web y se puede utilizar en cualquier lugar con conexión a Internet. Si deseas utilizarlo en un entorno cerrado como una intranet, por favor contáctanos por separado."
+      },
+      {
+        "question": "¿Puedo comprar una pantalla táctil?",
+        "answer": "Actualmente, no proporcionamos pantallas táctiles por separado, pero se añadirán al plan de precios en el futuro. Además, si necesitas un dispositivo táctil de inmediato, por favor contáctanos por separado para obtener información detallada."
+      }
+    ]
+  },
+  "salesAgent": {
+    "title": "Agente de ventas 3 en 1",
+    "subtitle": "Desde la preparación previa al evento hasta las ventas en el sitio y la gestión de clientes",
+    "description": "Hemos incorporado un equipo de 3 expertos en ventas en el sitio en un solo Rinda.",
+    "button": "Solicitar prueba gratuita",
+    "accessibility": {
+      "mainRegion": "Sección de introducción del agente de ventas",
+      "contentRegion": "Contenido principal del agente de ventas",
+      "ctaButton": "Botón para solicitar prueba gratuita"
+    }
+  },
+  "footer": {
+    "service": "Servicio",
+    "notice": "Aviso",
+    "faq": "Preguntas frecuentes",
+    "company": "Empresa",
+    "companyInfo": "Información de la empresa",
+    "inquiry": "Consulta",
+    "businessPartnership": "Asociación comercial",
+    "customerService": "Servicio al cliente",
+    "phone": "Teléfono: +82-10-6326-9009",
+    "email": "Correo electrónico: admin@grinda.ai",
+    "termsOfService": "Términos de servicio",
+    "privacyPolicy": "Política de privacidad",
+    "cookiesPolicy": "Política de cookies",
+    "ccpaPolicy": "Política CCPA",
+    "gdprPolicy": "Política GDPR",
+    "doNotSellMyInfo": "No vender mi información",
+    "companyName": "Grinda AI",
+    "companyDetails": "Número de registro comercial 309-88-02709 | CEO: Kang Hojin",
+    "address": "Dirección: Sala 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Gung-dong, Daejeon Tip Town)",
+    "businessLicense": "Número de registro de negocio de venta por correo: 2024-Daejeon Yuseong-0389",
+    "copyright": "Rinda AI. Todos los derechos reservados.",
+    "description": "Expande tu negocio al mercado global\ncon una solución de participación en exposiciones basada en IA.",
+    "accessibility": {
+      "footerNav": "Navegación del pie de página",
+      "serviceMenu": "Menú de servicios",
+      "companyMenu": "Menú de información de la empresa",
+      "inquiryMenu": "Menú de consultas",
+      "customerServiceMenu": "Menú de atención al cliente",
+      "socialLinks": "Enlaces a redes sociales",
+      "companyAddress": "Información de dirección de la empresa",
+      "legalInfo": "Información legal"
+    }
+  },
+  "accessibility": {
+    "description": {
+      "iconAlt": "Icono de sección",
+      "defaultIconAlt": "Icono de archivo",
+      "region": "Sección de descripción"
+    }
+  },
+  "ccpa": {
+    "title": "Política de privacidad CCPA",
+    "effectiveDate": "Fecha de entrada en vigor: 14 de febrero de 2025",
+    "sections": {
+      "overview": {
+        "title": "1. Resumen de la política",
+        "content": "Esta política de privacidad se ha establecido para proteger los derechos de los consumidores de California con respecto a la información personal recopilada a través del servicio \"Rinda\" (https://rinda.ai). La empresa procesa la información personal de manera transparente y legal de acuerdo con los requisitos de la CCPA y proporciona los siguientes derechos a los residentes de California."
+      },
+      "dataCollection": {
+        "title": "2. Recopilación y uso de información personal",
+        "intro": "La empresa recopila la siguiente información personal para proporcionar el servicio \"Rinda\":",
+        "items": {
+          "title": "Elementos de recopilación",
+          "required": {
+            "title": "Elementos requeridos",
+            "content": "Nombre, dirección de correo electrónico, información de contacto, información de inicio de sesión"
+          },
+          "additional": {
+            "title": "Elementos adicionales",
+            "content": "Dirección IP, cookies, registros de uso del servicio"
+          }
+        },
+        "purposes": {
+          "title": "Propósitos de uso",
+          "list": [
+            "Prestación de servicios y atención al cliente",
+            "Mejora de la experiencia del usuario y servicio personalizado",
+            "Marketing, análisis y mantenimiento de la seguridad"
+          ]
+        }
+      },
+      "rights": {
+        "title": "3. Derechos del consumidor de California",
+        "intro": "Según la CCPA, los consumidores de California tienen los siguientes derechos:",
+        "list": {
+          "access": {
+            "title": "Derecho de acceso",
+            "content": "Los consumidores tienen derecho a acceder a las categorías y piezas específicas de información personal que posee la empresa."
+          },
+          "deletion": {
+            "title": "Derecho de eliminación",
+            "content": "Los consumidores pueden solicitar la eliminación de su información personal bajo ciertas condiciones."
+          },
+          "optOut": {
+            "title": "Derecho de exclusión",
+            "content": "Los consumidores tienen derecho a optar por no permitir la venta o compartición de su información personal con terceros."
+          },
+          "nonDiscrimination": {
+            "title": "Derecho a la no discriminación",
+            "content": "Se garantiza a los consumidores que no enfrentarán ninguna desventaja o discriminación por ejercer sus derechos de privacidad."
+          }
+        }
+      },
+      "dataSharingAndSale": {
+        "title": "4. Venta y compartición de información personal",
+        "list": {
+          "thirdParty": {
+            "title": "Compartir con terceros",
+            "content": "La empresa no vende ni comparte la información personal de los consumidores de California con terceros, excepto cuando lo exige la ley o con el consentimiento explícito del consumidor."
+          },
+          "optOut": {
+            "title": "Exclusión voluntaria",
+            "content": "Los consumidores pueden optar por no compartir su información personal con terceros en cualquier momento a través del procedimiento de \"Solicitud de acceso y eliminación de información personal\" que se describe a continuación."
+          }
+        }
+      },
+      "accessAndDeletion": {
+        "title": "5. Solicitudes de acceso y eliminación de información personal",
+        "procedure": {
+          "title": "Procedimiento de solicitud",
+          "steps": [
+            "Envíe las solicitudes a través de la información de contacto proporcionada (correo electrónico, teléfono, correo postal).",
+            "La empresa procesará la solicitud después de completar procedimientos razonables para verificar la identidad del consumidor."
+          ]
+        },
+        "processingTime": {
+          "title": "Tiempo de procesamiento",
+          "content": "Los resultados se notificarán dentro de los 45 días posteriores a la recepción de la solicitud."
+        }
+      },
+      "policyChanges": {
+        "title": "6. Cambios y actualizaciones de la política",
+        "content": "La empresa puede modificar esta política de privacidad debido a cambios legales, mejoras en el servicio u otras razones.",
+        "notification": {
+          "title": "Método de notificación",
+          "content": "Los cambios se notificarán a través de los anuncios del servicio \"Rinda\" o del sitio web, y la política modificada entrará en vigor inmediatamente después de su publicación."
+        }
+      },
+      "contact": {
+        "title": "7. Consultas e información de contacto",
+        "intro": "Para consultas relacionadas con la CCPA o solicitudes de información personal, por favor contáctenos en:",
+        "info": {
+          "companyName": "Nombre de la empresa: Grinda AI Inc.",
+          "department": "Departamento: Equipo de protección de la privacidad",
+          "email": "Correo electrónico: privacy@grinda.ai",
+          "phone": "Teléfono: +82-10-6326-9009",
+          "address": "Dirección: Sala 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Tip Town)"
+        }
+      }
+    }
+  }
+}

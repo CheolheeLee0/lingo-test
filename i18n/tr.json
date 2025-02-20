@@ -1,0 +1,383 @@
+{
+  "metaData": {
+    "title": "Rinda - Yapay Zeka Tabanlı Fuar Yüz Yüze Satış Desteği Tümü Bir Arada Çözümü",
+    "description": "Fuar öncesi strateji önerilerinden gerçek zamanlı tercümeye ve etkinlik sonrası müşteri yönetimine kadar. Rinda, yerinde satış yapay zeka asistanınız",
+    "keywords": "Fuar Satışları, Yerinde Satış, Yüz Yüze Satış, B2B SaaS, Gerçek Zamanlı Tercüme, Yapay Zeka Ajanı, Konuşma Analizi, Ön Satış"
+  },
+  "header": {
+    "usecase": "Kullanım Alanları",
+    "process": "Süreç",
+    "blog": "Blog",
+    "getStarted": "Başlayın",
+    "languageSelect": "Dil Seçin",
+    "closeMenu": "Menüyü Kapat",
+    "openMenu": "Menüyü Aç",
+    "homeLink": "Ana Sayfaya Git",
+    "mainNavigation": "Ana Navigasyon",
+    "selectLanguage": "Dil Seçin",
+    "switchLanguage": "Dili {language} olarak değiştir"
+  },
+  "intro": {
+    "first": {
+      "label": "Yerinde Satışın Sınırlamalarını Aşın",
+      "title": {
+        "part1": "Satış için",
+        "part2": "Yapay Zeka",
+        "part3": "Yerinde",
+        "part4": "Satışınızı Otomatikleştirin"
+      },
+      "description": "Etkinlik öncesi hazırlıktan yerinde satışa ve müşteri yönetimine kadar.\n3 yerinde satış uzmanından oluşan bir ekibi tek bir Rinda'ya dahil ettik.",
+      "button": "Ücretsiz Deneme İçin Başvurun"
+    },
+    "second": {
+      "label": "Yerinde satış sırasında bütçe, insan gücü, iletişim ve müşteri adayı yönetimi gibi çeşitli zorluklar ortaya çıkar.",
+      "description": "Şimdi, yetenekli satış yöneticileriyle işbirliği yapın\nve düşük maliyetle etkili yurtdışı genişleme için hazırlanın.",
+      "button": "Daha Fazla Bilgi Edinin"
+    },
+    "accessibility": {
+      "mainGradientTop": "Üst gradyan arka plan görseli",
+      "mainGradientBottom": "Alt gradyan arka plan görseli",
+      "decorativeStar": "Dekoratif yıldız ikonu",
+      "serviceImage1": "Hizmet tanıtım görseli 1",
+      "serviceImage2": "Hizmet tanıtım görseli 2",
+      "serviceImage3": "Hizmet tanıtım görseli 3",
+      "scrollButton": "Aşağı kaydır",
+      "scrollIcon": "Aşağı kaydırma ikonu",
+      "mainSection": "Ana giriş bölümü",
+      "serviceSection": "Hizmet tanıtım bölümü"
+    }
+  },
+  "advancePreparation": {
+    "label": "Ön hazırlık",
+    "title": "Mükemmel hazırlık, başarının başlangıcıdır.\nsatış stratejisini yapay zekaya bırakın.",
+    "section1": {
+      "label": "Potansiyel müşteri keşfi",
+      "title": "İstediğiniz profile uyan\npotansiyel müşterileri bulun.",
+      "description": "Müşterilerinizi Rinda'ya tanımlarsanız, otomatik olarak arama koşullarını belirleyecek ve müşteri profillerini görüntülemenizi sağlayacaktır.",
+      "iconAlt": "Potansiyel müşteri keşfi ikonu",
+      "imageAlt": "Potansiyel müşteri keşfi görseli"
+    },
+    "section2": {
+      "label": "Yapay zeka mesaj gönderimi",
+      "title": "Yapay zeka direkt mesajlar yazar\nve otomatik olarak gönderir.",
+      "description": "Sadece müşteri grubunu belirleyin ve gönderim yöntemini seçin.\nRinda bilgilerinizi analiz eder ve mesajları bir insan tarafından yazılmış gibi gönderir.",
+      "iconAlt": "Yapay zeka mesaj gönderimi ikonu",
+      "imageAlt": "Yapay zeka mesaj gönderimi görseli"
+    },
+    "section3": {
+      "label": "Etkinlik öncesi strateji planlayıcısı",
+      "title": "Saha faaliyetleri için yapılacaklar listesini\ntek tıkla oluşturun.",
+      "description": "Saha bilgileri ve şirketinizin bilgileri gibi çeşitli faktörlere göre özelleştirilmiş bir kontrol listesi oluşturur.",
+      "iconAlt": "Etkinlik öncesi strateji planlayıcısı ikonu",
+      "imageAlt": "Etkinlik öncesi strateji planlayıcı görseli"
+    },
+    "accessibility": {
+      "mainSection": "Ön hazırlık bölümü",
+      "overlayImage": "Dekoratif kaplama görseli",
+      "section1Region": "Potansiyel müşteri keşfi bölümü",
+      "section2Region": "AI mesaj gönderme bölümü",
+      "section3Region": "Etkinlik öncesi strateji planlayıcı bölümü"
+    }
+  },
+  "onsiteSale": {
+    "label": "Yerinde Satış",
+    "title": "Özelleştirilmiş yerinde müşteri yanıt çözümüyle\nhızlı iletişim kurun ve verimli yönetin.",
+    "section1": {
+      "label": "Potansiyel Müşteri Keşfi",
+      "title": "Şirket verilerine dayalı öneri stratejileriyle\npotansiyel müşterileri bulun.",
+      "description": "Müşterilerinizi Rinda'ya tanımlarsanız, otomatik olarak arama koşullarını belirleyecek ve müşteri profillerini görüntülemenizi sağlayacaktır."
+    },
+    "section2": {
+      "label": "Kartvizit Tarama ve Müşteri Yönetimi",
+      "title": "Kartvizit tarama, müşteri yönetimini\nbir çırpıda çözer.",
+      "description": "Aldığınız kartvizitin fotoğrafını çekip yüklerseniz, müşteri bilgileri otomatik olarak kaydedilir.\nGörüşme geçmişiyle bağlantı kurarak müşterileri daha sistematik bir şekilde yönetebilirsiniz."
+    },
+    "accessibility": {
+      "mainSection": "Yerinde satış bölümü",
+      "questionImage": "Potansiyel müşteri keşfi illüstrasyonu",
+      "nameCardImage": "Dijital kartvizit illüstrasyonu",
+      "section1Region": "Potansiyel müşteri keşfi bölümü",
+      "section2Region": "Kartvizit tarama ve müşteri yönetimi bölümü"
+    }
+  },
+  "afterCare": {
+    "label": "Etkinlik Sonrası Yönetim",
+    "title": "Sonuçları bir bakışta analiz edin,\nve bir sonraki gelişmiş satışa birlikte hazırlanın.",
+    "items": {
+      "analysis": {
+        "title": "Görüşme Analizi",
+        "description": "Sahadan gelen görüşmeleri ve etkinlik sonrası geri bildirimleri toplayın,\nve bunları analiz ederek içgörüler sağlayın."
+      },
+      "followup": {
+        "title": "Takip Hatırlatıcısı",
+        "description": "Satış sonrası belirli zamanlarda otomatik olarak\nözelleştirilmiş e-postalar, mesajlar veya teklifler gönderin."
+      },
+      "roi": {
+        "title": "ROI gösterge paneli",
+        "description": "Kampanyalar, satış faaliyetleri ve bireysel satış vakaları için ROI'yi otomatik olarak analiz edin ve raporlar oluşturun."
+      },
+      "retention": {
+        "title": "Müşteri tutma ve ek satış stratejisi önerisi",
+        "description": "Mevcut müşterilerin kullanım modellerine dayanarak, ek satın alma fırsatlarını keşfedin\nve uygun ek satış ve çapraz satış stratejileri önerin."
+      },
+      "segmentation": {
+        "title": "Müşteri segmentasyonu ve hedefleme stratejisi",
+        "description": "Belirli hedef grupları belirlemek için müşteri verilerini analiz edin\nve her grup için özelleştirilmiş pazarlama ve satış stratejileri önerin."
+      },
+      "conversion": {
+        "title": "Sözleşme ve satın alma dönüşüm takibi",
+        "description": "Müşterilerin sözleşme veya satın almaya yönlendiren sürecini takip edin\nve sorunsuz ilerleme için takip eylemleri önerin."
+      },
+      "competitor": {
+        "title": "Rakip kıyaslama raporu",
+        "description": "Pazar trendleri ve rakip analizi yoluyla farklılaştırılmış teklif stratejileri önerin."
+      },
+      "relationship": {
+        "title": "Uzun vadeli müşteri ilişkilerini güçlendirme stratejisi",
+        "description": "Müşterilerle sürekli iletişimi sürdürmek ve güveni artırmak için özelleştirilmiş iletişim stratejileri sağlayın."
+      }
+    },
+    "carousel": {
+      "topLabel": "Ana etkinlik sonrası yönetim özellikleri",
+      "bottomLabel": "Ek etkinlik sonrası yönetim özellikleri"
+    }
+  },
+  "usecase": {
+    "label": "Kullanım alanları",
+    "title": "Rinda'yı her yerde uygulayabilirsiniz.\nBöylece satışlarınız asla durmasın.",
+    "cases": {
+      "aria": {
+        "list": "Kullanım alanları listesi",
+        "item": "Kullanım alanı öğesi"
+      },
+      "conference": {
+        "title": "Uluslararası konferanslar\nve seminerler",
+        "description": "Katılımcı ağı oluşturmayı ve gerçek zamanlı\nsoru-cevap oturumlarını destekleyerek sorunsuz iletişim sağlar.",
+        "imageAlt": "Uluslararası konferanslar ve seminerler görseli"
+      },
+      "startup": {
+        "title": "Küresel girişim sunum etkinliği",
+        "description": "Yatırımcı toplantıları düzenleyerek ve sunum materyallerini\npaylaşarak etkili sunumlar yapmanıza yardımcı oluyoruz.",
+        "imageAlt": "Küresel girişim sunum etkinliği görseli"
+      },
+      "trade": {
+        "title": "Yurtdışı ticaret danışmanlığı",
+        "description": "Özelleştirilmiş alıcı-satıcı eşleştirmesi ve danışma sürecini takip ederek ticaret müzakerelerini destekliyoruz.",
+        "imageAlt": "Yurtdışı ticaret danışmanlığı görseli"
+      },
+      "market": {
+        "title": "Bölgesel pazar araştırması",
+        "description": "Yerel trendleri analiz ederek ve tüketici verileri sağlayarak stratejik kararlar almanıza yardımcı oluyoruz.",
+        "imageAlt": "Bölgesel pazar araştırması görseli"
+      }
+    }
+  },
+  "process": {
+    "label": "Süreç",
+    "title": "Bir grup yapay zeka satış uzmanı işe almak,\nsadece 3 gün sürüyor.",
+    "subtitle": "Verimli yapay zeka satış entegrasyonu",
+    "description": "Özelleştirilmiş yapay zeka satış çözümlerini\nhızlı ve etkili bir şekilde entegre edin.",
+    "subdescription": "Tanıtım danışmanlığından kurulum ve işletmeye kadar adım adım bir süreç ile hızlı ve istikrarlı destek sağlıyoruz.",
+    "steps": {
+      "step1": {
+        "title": "Entegrasyon talebi",
+        "description": "RINDA entegrasyonu için özelleştirilmiş ilk danışmanlık yapın"
+      },
+      "step2": {
+        "title": "Fiyat teklifi sunma",
+        "description": "Özelleştirilmiş fiyat teklifi ve optimize edilmiş çözüm önerisi sunun"
+      },
+      "step3": {
+        "title": "Sistem kurulumu",
+        "description": "Özelleştirilmiş yapay zeka satış ortamını tasarlayın ve optimize edin"
+      },
+      "step4": {
+        "title": "Satış sonrası destek",
+        "description": "R teknik desteği ve sistematik işletme yönetimi sağlayın"
+      }
+    },
+    "accessibility": {
+      "processSteps": "Entegrasyon süreci adımları",
+      "currentStep": "Mevcut adım {step}",
+      "stepNumber": "Adım {number}",
+      "processDescription": "Entegrasyon süreci açıklaması"
+    }
+  },
+  "faq": {
+    "title": "Sıkça sorulan sorular",
+    "ariaLabel": "Sıkça sorulan sorular listesi",
+    "questionAriaLabel": "Soru {number}",
+    "answerAriaLabel": "Cevap {number}",
+    "items": [
+      {
+        "question": "Ücretsiz deneyebilir miyim?",
+        "answer": "Şu anda açık beta hizmetidir ve bazı sınırlı işlevleri ücretsiz olarak deneyebilirsiniz. Gelişmiş işlevler, resmi sürüm yayınlandıktan sonra kademeli olarak tanıtılacaktır. Acil tanıtım ihtiyacınız varsa lütfen bizimle ayrıca iletişime geçin."
+      },
+      {
+        "question": "Nasıl ödeme yapabilirim?",
+        "answer": "Şu anda açık beta hizmetidir ve ödeme sistemi gelecekteki güncellemelerle bildirilecektir. Tanıtım yapmak isterseniz lütfen bizimle ayrıca iletişime geçin."
+      },
+      {
+        "question": "Programı yüklemem gerekiyor mu?",
+        "answer": "Bu hizmet web tabanlıdır ve internet kullanımının mümkün olduğu herhangi bir ağ hizmetinde kullanılabilir. İntranet gibi kapalı bir ortamda kullanmak isterseniz lütfen bizimle ayrıca iletişime geçin."
+      },
+      {
+        "question": "Tablet ekranı satın alabilir miyim?",
+        "answer": "Şu anda tablet ekranlarını ayrı olarak sağlamıyoruz, ancak gelecekteki fiyatlandırma planına eklenecektir. Ayrıca, acilen bir tablet cihazına ihtiyacınız varsa, detaylı bilgi için lütfen bizimle ayrıca iletişime geçin."
+      }
+    ]
+  },
+  "salesAgent": {
+    "title": "3'ü 1 arada satış temsilcisi",
+    "subtitle": "Etkinlik öncesi hazırlıktan yerinde satışa ve müşteri yönetimine",
+    "description": "3 yerinde satış uzmanını tek bir Rinda'ya entegre ettik.",
+    "button": "Ücretsiz deneme için başvur",
+    "accessibility": {
+      "mainRegion": "Satış temsilcisi tanıtım bölümü",
+      "contentRegion": "Satış temsilcisi ana içeriği",
+      "ctaButton": "Ücretsiz deneme için başvur butonu"
+    }
+  },
+  "footer": {
+    "service": "Hizmet",
+    "notice": "Duyuru",
+    "faq": "SSS",
+    "company": "Şirket",
+    "companyInfo": "Şirket bilgisi",
+    "inquiry": "Sorgulama",
+    "businessPartnership": "İş ortaklığı",
+    "customerService": "Müşteri hizmetleri",
+    "phone": "Telefon: +82-10-6326-9009",
+    "email": "E-posta: admin@grinda.ai",
+    "termsOfService": "Kullanım koşulları",
+    "privacyPolicy": "Gizlilik politikası",
+    "cookiesPolicy": "Çerez politikası",
+    "ccpaPolicy": "CCPA politikası",
+    "gdprPolicy": "GDPR politikası",
+    "doNotSellMyInfo": "Bilgilerimi satmayın",
+    "companyName": "Grinda AI",
+    "companyDetails": "İşletme kayıt numarası 309-88-02709 | CEO: Kang Hojin",
+    "address": "Adres: Oda 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Gung-dong, Daejeon Tip Town)",
+    "businessLicense": "Posta siparişi işletme kayıt numarası: 2024-Daejeon Yuseong-0389",
+    "copyright": "Rinda AI. Tüm hakları saklıdır.",
+    "description": "AI tabanlı fuar katılım çözümü ile\nişletmenizi küresel pazara genişletin.",
+    "accessibility": {
+      "footerNav": "Alt bilgi navigasyonu",
+      "serviceMenu": "Hizmet menüsü",
+      "companyMenu": "Şirket bilgileri menüsü",
+      "inquiryMenu": "Sorgulama menüsü",
+      "customerServiceMenu": "Müşteri hizmetleri menüsü",
+      "socialLinks": "Sosyal medya bağlantıları",
+      "companyAddress": "Şirket adres bilgileri",
+      "legalInfo": "Yasal bilgiler"
+    }
+  },
+  "accessibility": {
+    "description": {
+      "iconAlt": "Bölüm ikonu",
+      "defaultIconAlt": "Dosya ikonu",
+      "region": "Açıklama bölümü"
+    }
+  },
+  "ccpa": {
+    "title": "CCPA gizlilik politikası",
+    "effectiveDate": "Yürürlük Tarihi: 14 Şubat 2025",
+    "sections": {
+      "overview": {
+        "title": "1. Politika Genel Bakışı",
+        "content": "Bu gizlilik politikası, \"Rinda\" hizmeti (https://rinda.ai) aracılığıyla toplanan kişisel bilgilerle ilgili Kaliforniya tüketicilerinin haklarını korumak için oluşturulmuştur. Şirket, kişisel bilgileri CCPA gerekliliklerine uygun olarak şeffaf ve yasal bir şekilde işlemekte ve Kaliforniya sakinlerine aşağıdaki hakları sağlamaktadır."
+      },
+      "dataCollection": {
+        "title": "2. Kişisel Bilgi Toplama ve Kullanımı",
+        "intro": "Şirket, \"Rinda\" hizmetini sağlamak için aşağıdaki kişisel bilgileri toplamaktadır:",
+        "items": {
+          "title": "Toplanan Bilgiler",
+          "required": {
+            "title": "Gerekli Bilgiler",
+            "content": "Ad, E-posta adresi, İletişim bilgileri, Giriş bilgileri"
+          },
+          "additional": {
+            "title": "Ek Bilgiler",
+            "content": "IP adresi, Çerezler, Hizmet kullanım kayıtları"
+          }
+        },
+        "purposes": {
+          "title": "Kullanım Amaçları",
+          "list": [
+            "Hizmet sağlama ve müşteri desteği",
+            "Kullanıcı deneyimini iyileştirme ve kişiselleştirilmiş hizmet",
+            "Pazarlama, analiz ve güvenlik bakımı"
+          ]
+        }
+      },
+      "rights": {
+        "title": "3. Kaliforniya Tüketici Hakları",
+        "intro": "CCPA kapsamında, Kaliforniya tüketicileri aşağıdaki haklara sahiptir:",
+        "list": {
+          "access": {
+            "title": "Erişim Hakkı",
+            "content": "Tüketiciler, şirketin elinde bulunan kişisel bilgilerin kategorilerine ve belirli parçalarına erişim hakkına sahiptir."
+          },
+          "deletion": {
+            "title": "Silme Hakkı",
+            "content": "Tüketiciler, belirli koşullar altında kişisel bilgilerinin silinmesini talep edebilir."
+          },
+          "optOut": {
+            "title": "Vazgeçme Hakkı",
+            "content": "Tüketiciler, kişisel bilgilerinin üçüncü taraflara satılmasından veya paylaşılmasından vazgeçme hakkına sahiptir."
+          },
+          "nonDiscrimination": {
+            "title": "Ayrımcılık Yapmama Hakkı",
+            "content": "Tüketicilere, gizlilik haklarını kullandıkları için herhangi bir dezavantaj veya ayrımcılıkla karşılaşmayacakları garanti edilir."
+          }
+        }
+      },
+      "dataSharingAndSale": {
+        "title": "4. Kişisel Bilgilerin Satışı ve Paylaşımı",
+        "list": {
+          "thirdParty": {
+            "title": "Üçüncü taraflarla paylaşım",
+            "content": "Şirket, kaliforniya tüketicilerinin kişisel bilgilerini, yasaların gerektirdiği durumlar veya tüketicinin açık izni olmadığı sürece üçüncü taraflarla satmaz veya paylaşmaz."
+          },
+          "optOut": {
+            "title": "Vazgeçme",
+            "content": "Tüketiciler, kişisel bilgilerinin üçüncü taraflarla paylaşılmasından aşağıdaki 'kişisel bilgilere erişim ve silme talebi' prosedürü aracılığıyla istedikleri zaman vazgeçebilirler."
+          }
+        }
+      },
+      "accessAndDeletion": {
+        "title": "5. kişisel bilgilere erişim ve silme talepleri",
+        "procedure": {
+          "title": "Talep prosedürü",
+          "steps": [
+            "Talepleri verilen iletişim bilgileri (e-posta, telefon, posta) aracılığıyla gönderin.",
+            "Şirket, tüketici kimliğini doğrulamak için makul prosedürleri tamamladıktan sonra talebi işleme alacaktır."
+          ]
+        },
+        "processingTime": {
+          "title": "İşlem süresi",
+          "content": "Sonuçlar, talebin alınmasından itibaren 45 gün içinde bildirilecektir."
+        }
+      },
+      "policyChanges": {
+        "title": "6. politika değişiklikleri ve güncellemeleri",
+        "content": "Şirket, yasal değişiklikler, hizmet iyileştirmeleri veya diğer nedenlerle bu gizlilik politikasını değiştirebilir.",
+        "notification": {
+          "title": "Bildirim yöntemi",
+          "content": "Değişiklikler \"rinda\" hizmet duyuruları veya web sitesi aracılığıyla bildirilecek ve değiştirilen politika yayınlandığı anda yürürlüğe girecektir."
+        }
+      },
+      "contact": {
+        "title": "7. sorular ve iletişim bilgileri",
+        "intro": "Ccpa ile ilgili sorularınız veya kişisel bilgi talepleriniz için lütfen bizimle iletişime geçin:",
+        "info": {
+          "companyName": "Şirket adı: grinda ai inc.",
+          "department": "Departman: gizlilik koruma ekibi",
+          "email": "E-posta: privacy@grinda.ai",
+          "phone": "Telefon: +82-10-6326-9009",
+          "address": "Adres: oda 502, 99 daehak-ro, yuseong-gu, daejeon (tip town)"
+        }
+      }
+    }
+  }
+}

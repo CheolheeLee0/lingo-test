@@ -1,0 +1,383 @@
+{
+  "metaData": {
+    "title": "Rinda - Giải pháp hỗ trợ bán hàng trực tiếp tại triển lãm tất cả trong một dựa trên AI",
+    "description": "Từ đề xuất chiến lược trước triển lãm đến phiên dịch thời gian thực và quản lý khách hàng sau sự kiện. Rinda, trợ lý AI bán hàng tại chỗ của bạn",
+    "keywords": "Bán hàng triển lãm, Bán hàng tại chỗ, Bán hàng trực tiếp, B2B SaaS, Phiên dịch thời gian thực, AI Agent, Phân tích hội thoại, Tiền bán hàng"
+  },
+  "header": {
+    "usecase": "Trường hợp sử dụng",
+    "process": "Quy trình",
+    "blog": "Blog",
+    "getStarted": "Bắt đầu",
+    "languageSelect": "Chọn ngôn ngữ",
+    "closeMenu": "Đóng menu",
+    "openMenu": "Mở menu",
+    "homeLink": "Về trang chủ",
+    "mainNavigation": "Điều hướng chính",
+    "selectLanguage": "Chọn ngôn ngữ",
+    "switchLanguage": "Chuyển ngôn ngữ sang {language}"
+  },
+  "intro": {
+    "first": {
+      "label": "Vượt qua giới hạn của bán hàng tại chỗ",
+      "title": {
+        "part1": "AI cho",
+        "part2": "Bán hàng",
+        "part3": "Tự động hóa",
+        "part4": "Bán hàng tại chỗ của bạn"
+      },
+      "description": "Từ chuẩn bị trước sự kiện đến bán hàng tại chỗ và quản lý khách hàng.\nChúng tôi đã tích hợp một đội ngũ 3 chuyên gia bán hàng tại chỗ vào một Rinda duy nhất.",
+      "button": "Đăng ký dùng thử miễn phí"
+    },
+    "second": {
+      "label": "Trong quá trình bán hàng tại chỗ, nhiều thách thức phát sinh như ngân sách, nhân lực, giao tiếp và quản lý khách hàng tiềm năng.",
+      "description": "Giờ đây, hãy hợp tác với các quản lý bán hàng có năng lực\nvà chuẩn bị cho việc mở rộng ra nước ngoài hiệu quả với chi phí thấp.",
+      "button": "Tìm hiểu thêm"
+    },
+    "accessibility": {
+      "mainGradientTop": "Hình ảnh nền gradient phía trên",
+      "mainGradientBottom": "Hình nền gradient phía dưới",
+      "decorativeStar": "Biểu tượng ngôi sao trang trí",
+      "serviceImage1": "Hình ảnh giới thiệu dịch vụ 1",
+      "serviceImage2": "Hình ảnh giới thiệu dịch vụ 2",
+      "serviceImage3": "Hình ảnh giới thiệu dịch vụ 3",
+      "scrollButton": "Cuộn xuống",
+      "scrollIcon": "Biểu tượng cuộn xuống",
+      "mainSection": "Phần giới thiệu chính",
+      "serviceSection": "Phần giới thiệu dịch vụ"
+    }
+  },
+  "advancePreparation": {
+    "label": "Chuẩn bị trước",
+    "title": "Chuẩn bị hoàn hảo là khởi đầu của thành công.\nHãy để chiến lược bán hàng cho AI.",
+    "section1": {
+      "label": "Khám phá khách hàng tiềm năng",
+      "title": "Tìm kiếm khách hàng tiềm năng\nphù hợp với hồ sơ mong muốn của bạn.",
+      "description": "Nếu bạn mô tả khách hàng của mình cho Rinda, nó sẽ tự động thiết lập các điều kiện tìm kiếm và cho phép bạn xem hồ sơ khách hàng.",
+      "iconAlt": "Biểu tượng khám phá khách hàng tiềm năng",
+      "imageAlt": "Hình ảnh khám phá khách hàng tiềm năng"
+    },
+    "section2": {
+      "label": "Gửi tin nhắn bằng AI",
+      "title": "AI viết tin nhắn trực tiếp\nvà gửi chúng tự động.",
+      "description": "Chỉ cần thiết lập nhóm khách hàng và chọn phương thức gửi.\nRinda phân tích thông tin của bạn và gửi tin nhắn như thể chúng được viết bởi con người.",
+      "iconAlt": "Biểu tượng gửi tin nhắn bằng AI",
+      "imageAlt": "Hình ảnh gửi tin nhắn bằng AI"
+    },
+    "section3": {
+      "label": "Lập kế hoạch chiến lược trước sự kiện",
+      "title": "Tạo danh sách việc cần làm cho hoạt động tại chỗ\nchỉ với một cú nhấp chuột.",
+      "description": "Nó tạo ra một danh sách kiểm tra phù hợp với nhiều yếu tố như thông tin tại chỗ và thông tin công ty của bạn.",
+      "iconAlt": "Biểu tượng lập kế hoạch chiến lược trước sự kiện",
+      "imageAlt": "Hình ảnh lập kế hoạch chiến lược trước sự kiện"
+    },
+    "accessibility": {
+      "mainSection": "Phần chuẩn bị trước",
+      "overlayImage": "Hình ảnh lớp phủ trang trí",
+      "section1Region": "Phần khám phá khách hàng tiềm năng",
+      "section2Region": "Phần gửi tin nhắn AI",
+      "section3Region": "Phần lập kế hoạch chiến lược trước sự kiện"
+    }
+  },
+  "onsiteSale": {
+    "label": "Bán hàng tại chỗ",
+    "title": "Giao tiếp nhanh chóng và quản lý hiệu quả\nvới giải pháp phản hồi khách hàng tại chỗ được tùy chỉnh.",
+    "section1": {
+      "label": "Khám phá khách hàng tiềm năng",
+      "title": "Tìm kiếm khách hàng tiềm năng\ndựa trên chiến lược đề xuất từ dữ liệu công ty.",
+      "description": "Nếu bạn mô tả khách hàng của mình cho Rinda, nó sẽ tự động thiết lập các điều kiện tìm kiếm và cho phép bạn xem hồ sơ khách hàng."
+    },
+    "section2": {
+      "label": "Quét danh thiếp và quản lý khách hàng",
+      "title": "Quét danh thiếp giải quyết\nviệc quản lý khách hàng một cách nhanh chóng.",
+      "description": "Nếu bạn chụp ảnh danh thiếp nhận được và tải lên, thông tin khách hàng sẽ được tự động lưu.\nBạn có thể quản lý khách hàng một cách có hệ thống hơn bằng cách liên kết nó với lịch sử cuộc trò chuyện."
+    },
+    "accessibility": {
+      "mainSection": "Phần bán hàng tại chỗ",
+      "questionImage": "Minh họa khám phá khách hàng tiềm năng",
+      "nameCardImage": "Minh họa danh thiếp kỹ thuật số",
+      "section1Region": "Phần khám phá khách hàng tiềm năng",
+      "section2Region": "Phần quét danh thiếp và quản lý khách hàng"
+    }
+  },
+  "afterCare": {
+    "label": "Quản lý sau sự kiện",
+    "title": "Phân tích kết quả một cách nhanh chóng,\nvà cùng nhau chuẩn bị cho việc bán hàng tốt hơn trong tương lai.",
+    "items": {
+      "analysis": {
+        "title": "Phân tích cuộc trò chuyện",
+        "description": "Thu thập các cuộc trò chuyện và phản hồi sau sự kiện từ hiện trường,\nvà phân tích chúng để cung cấp những hiểu biết sâu sắc."
+      },
+      "followup": {
+        "title": "Nhắc nhở theo dõi",
+        "description": "Tự động gửi email, tin nhắn hoặc đề xuất được tùy chỉnh\ntại các thời điểm cụ thể sau khi bán hàng."
+      },
+      "roi": {
+        "title": "Bảng điều khiển ROI",
+        "description": "Tự động phân tích và tạo báo cáo về ROI cho các chiến dịch, hoạt động bán hàng và các trường hợp bán hàng cá nhân."
+      },
+      "retention": {
+        "title": "Đề xuất chiến lược giữ chân khách hàng & bán thêm",
+        "description": "Dựa trên mô hình sử dụng của khách hàng hiện tại, khám phá cơ hội mua hàng bổ sung\nvà đề xuất các chiến lược bán thêm và bán chéo phù hợp."
+      },
+      "segmentation": {
+        "title": "Phân khúc khách hàng và chiến lược nhắm mục tiêu",
+        "description": "Phân tích dữ liệu khách hàng để xác định các nhóm mục tiêu cụ thể\nvà đề xuất chiến lược tiếp thị và bán hàng tùy chỉnh cho từng nhóm."
+      },
+      "conversion": {
+        "title": "Theo dõi chuyển đổi hợp đồng và mua hàng",
+        "description": "Theo dõi quá trình khách hàng dẫn đến ký kết hợp đồng hoặc mua hàng,\nvà đề xuất các hành động theo dõi để tiến triển suôn sẻ."
+      },
+      "competitor": {
+        "title": "Báo cáo đánh giá đối thủ cạnh tranh",
+        "description": "Đề xuất các chiến lược đề xuất khác biệt thông qua phân tích xu hướng thị trường và đối thủ cạnh tranh."
+      },
+      "relationship": {
+        "title": "Chiến lược tăng cường mối quan hệ khách hàng dài hạn",
+        "description": "Cung cấp các chiến lược giao tiếp tùy chỉnh để duy trì liên lạc liên tục với khách hàng và tăng cường sự tin tưởng."
+      }
+    },
+    "carousel": {
+      "topLabel": "Các tính năng quản lý sau sự kiện chính",
+      "bottomLabel": "Các tính năng quản lý sau sự kiện bổ sung"
+    }
+  },
+  "usecase": {
+    "label": "Trường hợp sử dụng",
+    "title": "Rinda, bạn có thể áp dụng ở mọi nơi.\nĐể việc bán hàng của bạn không bao giờ dừng lại.",
+    "cases": {
+      "aria": {
+        "list": "Danh sách các trường hợp sử dụng",
+        "item": "Mục trường hợp sử dụng"
+      },
+      "conference": {
+        "title": "Hội nghị và hội thảo quốc tế",
+        "description": "Hỗ trợ kết nối giữa người tham gia và hỏi đáp thời gian thực\nđể tạo điều kiện giao tiếp suôn sẻ.",
+        "imageAlt": "Hình ảnh hội nghị và hội thảo quốc tế"
+      },
+      "startup": {
+        "title": "Sự kiện thuyết trình startup toàn cầu",
+        "description": "Chúng tôi giúp bạn thuyết trình hiệu quả bằng cách sắp xếp\ncác cuộc gặp với nhà đầu tư và chia sẻ tài liệu thuyết trình.",
+        "imageAlt": "Hình ảnh sự kiện thuyết trình startup toàn cầu"
+      },
+      "trade": {
+        "title": "Tư vấn thương mại quốc tế",
+        "description": "Chúng tôi hỗ trợ đàm phán thương mại bằng cách kết nối\nngười mua-người bán tùy chỉnh và theo dõi tiến trình tư vấn.",
+        "imageAlt": "Hình ảnh tư vấn thương mại quốc tế"
+      },
+      "market": {
+        "title": "Nghiên cứu thị trường khu vực",
+        "description": "Chúng tôi giúp bạn đưa ra quyết định chiến lược bằng cách phân tích xu hướng địa phương và cung cấp dữ liệu người tiêu dùng.",
+        "imageAlt": "Hình ảnh nghiên cứu thị trường khu vực"
+      }
+    }
+  },
+  "process": {
+    "label": "Quy trình",
+    "title": "Tuyển dụng một nhóm chuyên gia bán hàng AI,\nchỉ mất 3 ngày.",
+    "subtitle": "Giới thiệu bán hàng AI hiệu quả",
+    "description": "Giới thiệu nhanh chóng và hiệu quả\ncác giải pháp bán hàng AI tùy chỉnh.",
+    "subdescription": "Chúng tôi cung cấp hỗ trợ nhanh chóng và ổn định thông qua quy trình từng bước từ tư vấn giới thiệu đến xây dựng và vận hành.",
+    "steps": {
+      "step1": {
+        "title": "Yêu cầu giới thiệu",
+        "description": "Tiến hành tư vấn ban đầu tùy chỉnh cho việc giới thiệu RINDA"
+      },
+      "step2": {
+        "title": "Cung cấp báo giá",
+        "description": "Cung cấp báo giá tùy chỉnh và đề xuất giải pháp tối ưu"
+      },
+      "step3": {
+        "title": "Xây dựng hệ thống",
+        "description": "Thiết kế và tối ưu hóa môi trường bán hàng AI tùy chỉnh"
+      },
+      "step4": {
+        "title": "Hỗ trợ sau triển khai",
+        "description": "Cung cấp hỗ trợ kỹ thuật R và quản lý vận hành hệ thống"
+      }
+    },
+    "accessibility": {
+      "processSteps": "Các bước quy trình giới thiệu",
+      "currentStep": "Bước hiện tại {step}",
+      "stepNumber": "Bước {number}",
+      "processDescription": "Mô tả quy trình giới thiệu"
+    }
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "ariaLabel": "Danh sách câu hỏi thường gặp",
+    "questionAriaLabel": "Câu hỏi {number}",
+    "answerAriaLabel": "Câu trả lời {number}",
+    "items": [
+      {
+        "question": "Tôi có thể dùng thử miễn phí không?",
+        "answer": "Hiện tại, đây là dịch vụ beta mở và bạn có thể dùng thử một số chức năng giới hạn miễn phí. Các chức năng nâng cao sẽ được giới thiệu dần dần sau khi chức năng chính thức được phát hành. Vui lòng liên hệ riêng với chúng tôi nếu bạn cần giới thiệu ngay."
+      },
+      {
+        "question": "Làm thế nào để thanh toán?",
+        "answer": "Hiện tại, đây là dịch vụ beta mở và hệ thống thanh toán sẽ được thông báo thông qua các yêu cầu trong tương lai. Vui lòng liên hệ riêng với chúng tôi nếu bạn muốn giới thiệu nó."
+      },
+      {
+        "question": "Tôi có cần cài đặt chương trình không?",
+        "answer": "Dịch vụ này là dịch vụ dựa trên web và có thể được sử dụng ở bất kỳ đâu có dịch vụ mạng Internet. Nếu bạn muốn sử dụng nó trong môi trường khép kín như mạng nội bộ, vui lòng liên hệ riêng với chúng tôi."
+      },
+      {
+        "question": "Tôi có thể mua màn hình máy tính bảng không?",
+        "answer": "Hiện tại, chúng tôi không cung cấp màn hình máy tính bảng riêng biệt, nhưng chúng sẽ được thêm vào kế hoạch giá trong tương lai. Ngoài ra, nếu bạn cần thiết bị máy tính bảng ngay lập tức, vui lòng liên hệ riêng với chúng tôi để biết thông tin chi tiết."
+      }
+    ]
+  },
+  "salesAgent": {
+    "title": "Đại lý bán hàng 3 trong 1",
+    "subtitle": "Từ chuẩn bị trước sự kiện đến bán hàng tại chỗ và quản lý khách hàng",
+    "description": "Chúng tôi đã tích hợp một nhóm 3 chuyên gia bán hàng tại chỗ vào một Rinda.",
+    "button": "Đăng ký dùng thử miễn phí",
+    "accessibility": {
+      "mainRegion": "Phần giới thiệu đại lý bán hàng",
+      "contentRegion": "Nội dung chính về đại lý bán hàng",
+      "ctaButton": "Nút đăng ký dùng thử miễn phí"
+    }
+  },
+  "footer": {
+    "service": "Dịch vụ",
+    "notice": "Thông báo",
+    "faq": "Câu hỏi thường gặp",
+    "company": "Công ty",
+    "companyInfo": "Thông tin công ty",
+    "inquiry": "Yêu cầu",
+    "businessPartnership": "Hợp tác kinh doanh",
+    "customerService": "Dịch vụ khách hàng",
+    "phone": "Điện thoại: +82-10-6326-9009",
+    "email": "Email: admin@grinda.ai",
+    "termsOfService": "Điều khoản dịch vụ",
+    "privacyPolicy": "Chính sách bảo mật",
+    "cookiesPolicy": "Chính sách cookie",
+    "ccpaPolicy": "Chính sách CCPA",
+    "gdprPolicy": "Chính sách GDPR",
+    "doNotSellMyInfo": "Không bán thông tin của tôi",
+    "companyName": "Grinda AI",
+    "companyDetails": "Số đăng ký kinh doanh 309-88-02709 | Giám đốc điều hành: Kang Hojin",
+    "address": "Địa chỉ: Phòng 502, 99 Daehak-ro, Quận Yuseong, Daejeon (Gung-dong, Daejeon Tip Town)",
+    "businessLicense": "Số đăng ký kinh doanh thương mại điện tử: 2024-Daejeon Yuseong-0389",
+    "copyright": "Rinda AI. Bảo lưu mọi quyền.",
+    "description": "Mở rộng doanh nghiệp của bạn ra thị trường toàn cầu\nvới giải pháp tham gia triển lãm dựa trên AI.",
+    "accessibility": {
+      "footerNav": "Điều hướng chân trang",
+      "serviceMenu": "Menu dịch vụ",
+      "companyMenu": "Menu thông tin công ty",
+      "inquiryMenu": "Menu yêu cầu",
+      "customerServiceMenu": "Menu dịch vụ khách hàng",
+      "socialLinks": "Liên kết mạng xã hội",
+      "companyAddress": "Thông tin địa chỉ công ty",
+      "legalInfo": "Thông tin pháp lý"
+    }
+  },
+  "accessibility": {
+    "description": {
+      "iconAlt": "Biểu tượng phần",
+      "defaultIconAlt": "Biểu tượng tệp",
+      "region": "Phần mô tả"
+    }
+  },
+  "ccpa": {
+    "title": "Chính sách bảo mật CCPA",
+    "effectiveDate": "Ngày có hiệu lực: Ngày 14 tháng 2 năm 2025",
+    "sections": {
+      "overview": {
+        "title": "1. Tổng quan chính sách",
+        "content": "Chính sách bảo mật này được thiết lập để bảo vệ quyền lợi của người tiêu dùng California liên quan đến thông tin cá nhân được thu thập thông qua dịch vụ \"Rinda\" (https://rinda.ai). Công ty xử lý thông tin cá nhân một cách minh bạch và hợp pháp theo yêu cầu của CCPA và cung cấp các quyền sau đây cho cư dân California."
+      },
+      "dataCollection": {
+        "title": "2. Thu thập và sử dụng thông tin cá nhân",
+        "intro": "Công ty thu thập các thông tin cá nhân sau đây để cung cấp dịch vụ \"Rinda\":",
+        "items": {
+          "title": "Các mục thu thập",
+          "required": {
+            "title": "Các mục bắt buộc",
+            "content": "Tên, địa chỉ email, thông tin liên hệ, thông tin đăng nhập"
+          },
+          "additional": {
+            "title": "Các mục bổ sung",
+            "content": "Địa chỉ IP, cookie, lịch sử sử dụng dịch vụ"
+          }
+        },
+        "purposes": {
+          "title": "Mục đích sử dụng",
+          "list": [
+            "Cung cấp dịch vụ và hỗ trợ khách hàng",
+            "Cải thiện trải nghiệm người dùng và cá nhân hóa dịch vụ",
+            "Tiếp thị, phân tích và duy trì bảo mật"
+          ]
+        }
+      },
+      "rights": {
+        "title": "3. Quyền của người tiêu dùng California",
+        "intro": "Theo CCPA, người tiêu dùng California có các quyền sau:",
+        "list": {
+          "access": {
+            "title": "Quyền truy cập",
+            "content": "Người tiêu dùng có quyền truy cập vào các danh mục và các thông tin cá nhân cụ thể mà công ty nắm giữ."
+          },
+          "deletion": {
+            "title": "Quyền xóa",
+            "content": "Người tiêu dùng có thể yêu cầu xóa thông tin cá nhân của họ trong một số điều kiện nhất định."
+          },
+          "optOut": {
+            "title": "Quyền từ chối",
+            "content": "Người tiêu dùng có quyền từ chối việc bán hoặc chia sẻ thông tin cá nhân của họ cho bên thứ ba."
+          },
+          "nonDiscrimination": {
+            "title": "Quyền không bị phân biệt đối xử",
+            "content": "Người tiêu dùng được đảm bảo không phải đối mặt với bất kỳ bất lợi hoặc phân biệt đối xử nào khi thực hiện quyền riêng tư của họ."
+          }
+        }
+      },
+      "dataSharingAndSale": {
+        "title": "4. Bán và chia sẻ thông tin cá nhân",
+        "list": {
+          "thirdParty": {
+            "title": "Chia sẻ với bên thứ ba",
+            "content": "Công ty không bán hoặc chia sẻ thông tin cá nhân của người tiêu dùng California với các bên thứ ba, trừ khi luật pháp yêu cầu hoặc có sự đồng ý rõ ràng của người tiêu dùng."
+          },
+          "optOut": {
+            "title": "Từ chối",
+            "content": "Người tiêu dùng có thể từ chối việc chia sẻ thông tin cá nhân của họ với bên thứ ba bất cứ lúc nào thông qua quy trình 'Yêu cầu truy cập và xóa thông tin cá nhân' dưới đây."
+          }
+        }
+      },
+      "accessAndDeletion": {
+        "title": "5. Yêu cầu truy cập và xóa thông tin cá nhân",
+        "procedure": {
+          "title": "Quy trình yêu cầu",
+          "steps": [
+            "Gửi yêu cầu thông qua thông tin liên hệ được cung cấp (email, điện thoại, thư).",
+            "Công ty sẽ xử lý yêu cầu sau khi hoàn thành các thủ tục hợp lý để xác minh danh tính người tiêu dùng."
+          ]
+        },
+        "processingTime": {
+          "title": "Thời gian xử lý",
+          "content": "Kết quả sẽ được thông báo trong vòng 45 ngày kể từ ngày nhận được yêu cầu."
+        }
+      },
+      "policyChanges": {
+        "title": "6. Thay đổi và cập nhật chính sách",
+        "content": "Công ty có thể sửa đổi chính sách bảo mật này do thay đổi pháp lý, cải tiến dịch vụ hoặc các lý do khác.",
+        "notification": {
+          "title": "Phương thức thông báo",
+          "content": "Các thay đổi sẽ được thông báo thông qua các thông báo dịch vụ \"Rinda\" hoặc trang web, và chính sách đã sửa đổi có hiệu lực ngay sau khi được đăng."
+        }
+      },
+      "contact": {
+        "title": "7. Thắc mắc và thông tin liên hệ",
+        "intro": "Đối với các thắc mắc liên quan đến CCPA hoặc yêu cầu về thông tin cá nhân, vui lòng liên hệ với chúng tôi tại:",
+        "info": {
+          "companyName": "Tên công ty: Grinda AI Inc.",
+          "department": "Bộ phận: Đội ngũ bảo vệ quyền riêng tư",
+          "email": "Email: privacy@grinda.ai",
+          "phone": "Điện thoại: +82-10-6326-9009",
+          "address": "Địa chỉ: Phòng 502, 99 Daehak-ro, Yuseong-gu, Daejeon (Tip Town)"
+        }
+      }
+    }
+  }
+}

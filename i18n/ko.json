@@ -1,0 +1,383 @@
+{
+  "metaData": {
+    "title": "린다 - AI 기반 전시회 대면 영업 지원 올인원 솔루션",
+    "description": "전시회 사전 전략 추천부터 실시간 통역, 사후 고객 관리까지. 린다, 당신의 현장 영업 AI 어시스턴트",
+    "keywords": "전시회 영업, 현장 영업, 대면 영업, B2B SaaS, 실시간 통역, AI 에이전트, 대화 분석, 사전 영업"
+  },
+  "header": {
+    "usecase": "활용 사례",
+    "process": "프로세스",
+    "blog": "블로그",
+    "getStarted": "시작하기",
+    "languageSelect": "언어 선택",
+    "closeMenu": "메뉴 닫기",
+    "openMenu": "메뉴 열기",
+    "homeLink": "홈페이지로 이동",
+    "mainNavigation": "메인 네비게이션",
+    "selectLanguage": "언어 선택",
+    "switchLanguage": "{language}로 언어 변경"
+  },
+  "intro": {
+    "first": {
+      "label": "현장 영업의 한계를 극복하세요",
+      "title": {
+        "part1": "영업을 위한",
+        "part2": "AI",
+        "part3": "현장 영업을",
+        "part4": "자동화하세요"
+      },
+      "description": "사전 준비부터 현장 영업, 고객 관리까지.\n3명의 현장 영업 전문가 팀을 하나의 린다에 담았습니다.",
+      "button": "무료 체험 신청"
+    },
+    "second": {
+      "label": "현장 영업 시 예산, 인력, 소통, 리드 관리 등 다양한 어려움이 발생합니다.",
+      "description": "이제 유능한 영업 매니저와 협업하고\n저비용으로 효과적인 해외 진출을 준비하세요.",
+      "button": "자세히 알아보기"
+    },
+    "accessibility": {
+      "mainGradientTop": "상단 그라데이션 배경 이미지",
+      "mainGradientBottom": "하단 그라데이션 배경 이미지",
+      "decorativeStar": "장식용 별 아이콘",
+      "serviceImage1": "서비스 소개 이미지 1",
+      "serviceImage2": "서비스 소개 이미지 2",
+      "serviceImage3": "서비스 소개 이미지 3",
+      "scrollButton": "아래로 스크롤",
+      "scrollIcon": "아래로 스크롤 아이콘",
+      "mainSection": "메인 인트로 섹션",
+      "serviceSection": "서비스 인트로 섹션"
+    }
+  },
+  "advancePreparation": {
+    "label": "사전 준비",
+    "title": "완벽한 준비가 성공의 시작입니다.\nAI에게 영업 전략을 맡기세요.",
+    "section1": {
+      "label": "리드 발굴",
+      "title": "원하는 페르소나와 일치하는\n잠재 고객을 찾아보세요.",
+      "description": "Rinda에게 고객에 대해 설명하면 자동으로 검색 조건을 설정하고 고객 프로필을 볼 수 있습니다.",
+      "iconAlt": "리드 발굴 아이콘",
+      "imageAlt": "리드 발굴 이미지"
+    },
+    "section2": {
+      "label": "AI 메시지 발송",
+      "title": "AI가 다이렉트 메시지를 작성하고\n자동으로 발송합니다.",
+      "description": "고객 그룹을 설정하고 발송 방법을 선택하기만 하면 됩니다.\nRinda가 귀하의 정보를 분석하여 사람이 작성한 것처럼 메시지를 보냅니다.",
+      "iconAlt": "AI 메시지 발송 아이콘",
+      "imageAlt": "AI 메시지 발송 이미지"
+    },
+    "section3": {
+      "label": "사전 이벤트 전략 플래너",
+      "title": "현장 활동을 위한 할 일 목록을\n클릭 한 번으로 만들어보세요.",
+      "description": "현장 정보와 귀사의 정보 등 다양한 요소를 고려하여 맞춤형 체크리스트를 작성합니다.",
+      "iconAlt": "사전 이벤트 전략 플래너 아이콘",
+      "imageAlt": "사전 전략 계획 이미지"
+    },
+    "accessibility": {
+      "mainSection": "사전 준비 섹션",
+      "overlayImage": "장식용 오버레이 이미지",
+      "section1Region": "잠재 고객 발견 섹션",
+      "section2Region": "AI 메시지 전송 섹션",
+      "section3Region": "사전 전략 계획 섹션"
+    }
+  },
+  "onsiteSale": {
+    "label": "현장 판매",
+    "title": "맞춤형 현장 고객 응대 솔루션으로\n빠르게 소통하고 효율적으로 관리하세요.",
+    "section1": {
+      "label": "잠재 고객 발견",
+      "title": "회사 데이터 기반 추천 전략으로\n잠재 고객을 찾아보세요.",
+      "description": "린다에게 고객에 대해 설명하면 자동으로 검색 조건을 설정하고 고객 프로필을 볼 수 있습니다."
+    },
+    "section2": {
+      "label": "명함 스캔 및 고객 관리",
+      "title": "명함 스캔으로\n고객 관리를 한 번에 해결하세요.",
+      "description": "받은 명함을 사진으로 찍어 업로드하면 고객 정보가 자동으로 저장됩니다.\n대화 내역과 연동하여 더욱 체계적으로 고객을 관리할 수 있습니다."
+    },
+    "accessibility": {
+      "mainSection": "현장 판매 섹션",
+      "questionImage": "잠재 고객 발견 일러스트레이션",
+      "nameCardImage": "디지털 명함 일러스트레이션",
+      "section1Region": "잠재 고객 발견 섹션",
+      "section2Region": "명함 스캔 및 고객 관리 섹션"
+    }
+  },
+  "afterCare": {
+    "label": "사후 관리",
+    "title": "결과를 한눈에 분석하고,\n다음 개선된 판매를 함께 준비하세요.",
+    "items": {
+      "analysis": {
+        "title": "대화 분석",
+        "description": "현장에서의 대화와 사후 피드백을 수집하여\n분석하고 인사이트를 제공합니다."
+      },
+      "followup": {
+        "title": "후속 조치 알림",
+        "description": "판매 후 특정 시점에 맞춤형 이메일, 메시지 또는 제안서를\n자동으로 발송합니다."
+      },
+      "roi": {
+        "title": "ROI 대시보드",
+        "description": "캠페인, 영업 활동 및 개별 영업 사례에 대한 ROI를 자동으로 분석하고 보고서를 생성합니다."
+      },
+      "retention": {
+        "title": "고객 유지 및 상향 판매 전략 추천",
+        "description": "기존 고객의 사용 패턴을 기반으로 추가 구매 기회를 발견하고\n적절한 상향 판매 및 교차 판매 전략을 제안합니다."
+      },
+      "segmentation": {
+        "title": "고객 세분화 및 타겟팅 전략",
+        "description": "고객 데이터를 분석하여 특정 대상 그룹을 식별하고\n각 그룹에 맞는 맞춤형 마케팅 및 영업 전략을 제안합니다."
+      },
+      "conversion": {
+        "title": "계약 및 구매 전환 추적",
+        "description": "고객이 계약이나 구매로 이어지는 과정을 추적하고,\n원활한 진행을 위한 후속 조치를 제안합니다."
+      },
+      "competitor": {
+        "title": "경쟁사 벤치마킹 보고서",
+        "description": "시장 동향과 경쟁사 분석을 통해 차별화된 제안 전략을 추천합니다."
+      },
+      "relationship": {
+        "title": "장기 고객 관계 강화 전략",
+        "description": "고객과 지속적인 접촉을 유지하고 신뢰를 높이기 위한 맞춤형 커뮤니케이션 전략을 제공합니다."
+      }
+    },
+    "carousel": {
+      "topLabel": "주요 사후 관리 기능",
+      "bottomLabel": "추가 사후 관리 기능"
+    }
+  },
+  "usecase": {
+    "label": "활용 사례",
+    "title": "린다, 어디에나 적용할 수 있습니다.\n당신의 영업이 멈추지 않도록.",
+    "cases": {
+      "aria": {
+        "list": "활용 사례 목록",
+        "item": "활용 사례 항목"
+      },
+      "conference": {
+        "title": "국제 컨퍼런스\n및 세미나",
+        "description": "참가자 네트워킹과 실시간 Q&A를 지원하여\n원활한 소통을 제공합니다.",
+        "imageAlt": "국제 컨퍼런스 및 세미나 이미지"
+      },
+      "startup": {
+        "title": "글로벌 스타트업 피칭 이벤트",
+        "description": "투자자 미팅을 주선하고 피칭 자료를 공유하여\n효과적인 프레젠테이션을 돕습니다.",
+        "imageAlt": "글로벌 스타트업 피칭 이벤트 이미지"
+      },
+      "trade": {
+        "title": "해외 무역 상담",
+        "description": "맞춤형 구매자-판매자 매칭과 상담 진행 추적을 통해\n무역 협상을 지원합니다.",
+        "imageAlt": "해외 무역 상담 이미지"
+      },
+      "market": {
+        "title": "지역 시장 조사",
+        "description": "현지 트렌드를 분석하고 소비자 데이터를 제공하여\n전략적 의사결정을 돕습니다.",
+        "imageAlt": "지역 시장 조사 이미지"
+      }
+    }
+  },
+  "process": {
+    "label": "프로세스",
+    "title": "AI 영업 전문가 그룹 모집,\n단 3일이면 충분합니다.",
+    "subtitle": "효율적인 AI 영업 도입",
+    "description": "맞춤형 AI 영업 솔루션을\n빠르고 효과적으로 도입합니다.",
+    "subdescription": "도입 상담부터 구축, 운영까지 단계별 프로세스를 통해 빠르고 안정적인 지원을 제공합니다.",
+    "steps": {
+      "step1": {
+        "title": "도입 문의",
+        "description": "RINDA 도입을 위한 맞춤형 초기 상담 진행"
+      },
+      "step2": {
+        "title": "견적 제공",
+        "description": "맞춤형 견적 및 최적화된 솔루션 제안 제공"
+      },
+      "step3": {
+        "title": "시스템 구축",
+        "description": "맞춤형 AI 영업 환경 설계 및 최적화"
+      },
+      "step4": {
+        "title": "사후 지원",
+        "description": "R 기술 지원 및 체계적인 운영 관리 제공"
+      }
+    },
+    "accessibility": {
+      "processSteps": "도입 프로세스 단계",
+      "currentStep": "현재 단계 {step}",
+      "stepNumber": "단계 {number}",
+      "processDescription": "도입 프로세스 설명"
+    }
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "ariaLabel": "자주 묻는 질문 목록",
+    "questionAriaLabel": "질문 {number}",
+    "answerAriaLabel": "답변 {number}",
+    "items": [
+      {
+        "question": "무료로 체험해볼 수 있나요?",
+        "answer": "현재는 오픈 베타 서비스로, 일부 제한된 기능을 무료로 체험해보실 수 있습니다. 고급 기능은 정식 서비스 출시 후 점진적으로 도입될 예정이며, 즉시 도입이 필요하신 경우 별도로 문의해 주시기 바랍니다."
+      },
+      {
+        "question": "결제는 어떻게 하나요?",
+        "answer": "현재는 오픈 베타 서비스로, 결제 시스템은 추후 안내를 통해 공지될 예정입니다. 도입을 원하시는 경우 별도로 문의해 주시기 바랍니다."
+      },
+      {
+        "question": "프로그램을 설치해야 하나요?",
+        "answer": "본 서비스는 웹 기반 서비스로, 인터넷 사용이 가능한 네트워크 환경이라면 어디서든 이용하실 수 있습니다. 인트라넷과 같은 폐쇄 환경에서 사용을 원하시는 경우 별도로 문의해 주시기 바랍니다."
+      },
+      {
+        "question": "태블릿 디스플레이를 구매할 수 있나요?",
+        "answer": "현재는 태블릿 디스플레이를 별도로 제공하지 않지만, 향후 가격 정책에 추가될 예정입니다. 또한, 태블릿 기기가 즉시 필요하신 경우 자세한 정보를 위해 별도로 문의해 주시기 바랍니다."
+      }
+    ]
+  },
+  "salesAgent": {
+    "title": "3 in 1 영업 에이전트",
+    "subtitle": "행사 전 준비부터 현장 판매, 고객 관리까지",
+    "description": "현장 영업 전문가 3명의 팀을 하나의 린다에 담았습니다.",
+    "button": "무료 체험 신청",
+    "accessibility": {
+      "mainRegion": "영업 에이전트 소개 섹션",
+      "contentRegion": "영업 에이전트 주요 내용",
+      "ctaButton": "무료 체험 신청 버튼"
+    }
+  },
+  "footer": {
+    "service": "서비스",
+    "notice": "공지사항",
+    "faq": "자주 묻는 질문",
+    "company": "회사",
+    "companyInfo": "회사 정보",
+    "inquiry": "문의하기",
+    "businessPartnership": "비즈니스 파트너십",
+    "customerService": "고객 서비스",
+    "phone": "전화: +82-10-6326-9009",
+    "email": "이메일: admin@grinda.ai",
+    "termsOfService": "서비스 이용약관",
+    "privacyPolicy": "개인정보 처리방침",
+    "cookiesPolicy": "쿠키 정책",
+    "ccpaPolicy": "CCPA 정책",
+    "gdprPolicy": "GDPR 정책",
+    "doNotSellMyInfo": "내 정보 판매 금지",
+    "companyName": "그린다 AI",
+    "companyDetails": "사업자등록번호 309-88-02709 | 대표: 강호진",
+    "address": "주소: 대전광역시 유성구 대학로 99 502호 (궁동, 대전팁타운)",
+    "businessLicense": "통신판매업 신고번호: 2024-대전유성-0389",
+    "copyright": "Rinda AI. 모든 권리 보유.",
+    "description": "AI 기반 전시회 참가 솔루션으로\n귀사의 글로벌 시장 진출을 확장하세요.",
+    "accessibility": {
+      "footerNav": "푸터 내비게이션",
+      "serviceMenu": "서비스 메뉴",
+      "companyMenu": "회사 정보 메뉴",
+      "inquiryMenu": "문의 메뉴",
+      "customerServiceMenu": "고객 서비스 메뉴",
+      "socialLinks": "소셜 미디어 링크",
+      "companyAddress": "회사 주소 정보",
+      "legalInfo": "법적 정보"
+    }
+  },
+  "accessibility": {
+    "description": {
+      "iconAlt": "섹션 아이콘",
+      "defaultIconAlt": "파일 아이콘",
+      "region": "설명 섹션"
+    }
+  },
+  "ccpa": {
+    "title": "CCPA 개인정보 보호정책",
+    "effectiveDate": "발효일: 2025년 2월 14일",
+    "sections": {
+      "overview": {
+        "title": "1. 정책 개요",
+        "content": "이 개인정보 보호정책은 \"린다\" 서비스(https://rinda.ai)를 통해 수집된 개인정보에 대한 캘리포니아 소비자의 권리를 보호하기 위해 수립되었습니다. 회사는 CCPA 요구사항에 따라 투명하고 합법적으로 개인정보를 처리하며 캘리포니아 주민에게 다음과 같은 권리를 제공합니다."
+      },
+      "dataCollection": {
+        "title": "2. 개인정보 수집 및 사용",
+        "intro": "회사는 \"린다\" 서비스를 제공하기 위해 다음과 같은 개인정보를 수집합니다:",
+        "items": {
+          "title": "수집 항목",
+          "required": {
+            "title": "필수 항목",
+            "content": "이름, 이메일 주소, 연락처 정보, 로그인 정보"
+          },
+          "additional": {
+            "title": "추가 항목",
+            "content": "IP 주소, 쿠키, 서비스 이용 기록"
+          }
+        },
+        "purposes": {
+          "title": "사용 목적",
+          "list": [
+            "서비스 제공 및 고객 지원",
+            "사용자 경험 개선 및 개인화된 서비스",
+            "마케팅, 분석 및 보안 유지"
+          ]
+        }
+      },
+      "rights": {
+        "title": "3. 캘리포니아 소비자 권리",
+        "intro": "CCPA에 따라 캘리포니아 소비자는 다음과 같은 권리를 가집니다:",
+        "list": {
+          "access": {
+            "title": "접근권",
+            "content": "소비자는 회사가 보유한 개인정보의 카테고리와 구체적인 내용에 대해 접근할 권리가 있습니다."
+          },
+          "deletion": {
+            "title": "삭제권",
+            "content": "소비자는 특정 조건 하에서 자신의 개인정보 삭제를 요청할 수 있습니다."
+          },
+          "optOut": {
+            "title": "옵트아웃권",
+            "content": "소비자는 자신의 개인정보를 제3자에게 판매하거나 공유하는 것을 거부할 권리가 있습니다."
+          },
+          "nonDiscrimination": {
+            "title": "차별금지권",
+            "content": "소비자는 개인정보 보호 권리를 행사한다고 해서 어떠한 불이익이나 차별도 받지 않을 것을 보장받습니다."
+          }
+        }
+      },
+      "dataSharingAndSale": {
+        "title": "4. 개인정보 판매 및 공유",
+        "list": {
+          "thirdParty": {
+            "title": "제3자 공유",
+            "content": "회사는 법률에 의해 요구되거나 소비자의 명시적 동의가 있는 경우를 제외하고 캘리포니아 소비자의 개인 정보를 제3자와 판매하거나 공유하지 않습니다."
+          },
+          "optOut": {
+            "title": "옵트아웃",
+            "content": "소비자는 아래의 '개인 정보 접근 및 삭제 요청' 절차를 통해 언제든지 자신의 개인 정보의 제3자 공유를 거부할 수 있습니다."
+          }
+        }
+      },
+      "accessAndDeletion": {
+        "title": "5. 개인 정보 접근 및 삭제 요청",
+        "procedure": {
+          "title": "요청 절차",
+          "steps": [
+            "제공된 연락처 정보(이메일, 전화, 우편)를 통해 요청을 제출하세요.",
+            "회사는 소비자 신원을 확인하기 위한 합리적인 절차를 완료한 후 요청을 처리할 것입니다."
+          ]
+        },
+        "processingTime": {
+          "title": "처리 시간",
+          "content": "요청 접수 후 45일 이내에 결과를 통지해 드립니다."
+        }
+      },
+      "policyChanges": {
+        "title": "6. 정책 변경 및 업데이트",
+        "content": "회사는 법률 변경, 서비스 개선 또는 기타 이유로 이 개인정보 보호정책을 수정할 수 있습니다.",
+        "notification": {
+          "title": "통지 방법",
+          "content": "변경 사항은 \"린다\" 서비스 공지 또는 웹사이트를 통해 통지되며, 수정된 정책은 게시 즉시 효력이 발생합니다."
+        }
+      },
+      "contact": {
+        "title": "7. 문의 및 연락처 정보",
+        "intro": "ccpa 관련 문의 또는 개인 정보 요청은 다음 연락처로 문의해 주세요:",
+        "info": {
+          "companyName": "회사명: 그린다 ai 주식회사",
+          "department": "부서: 개인정보 보호팀",
+          "email": "이메일: privacy@grinda.ai",
+          "phone": "전화: +82-10-6326-9009",
+          "address": "주소: 대전광역시 유성구 대학로 99, 502호 (팁타운)"
+        }
+      }
+    }
+  }
+}
